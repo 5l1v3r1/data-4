@@ -1,0 +1,1725 @@
+. punct root
+ۋە cc
+، punct
+- punct root
+بىر nummod compound root
+بىلەن case cc advmod
+) punct root
+بۇ det nsubj
+» punct
+: punct
+( punct
+ئۇ nsubj det
+ياكى cc advmod
+« punct
+بولغان acl cop root nsubj aux conj parataxis ccomp
+دەپ advcl root advmod compound
+ئۇنىڭ nmod:poss
+" punct root
+ئۈچۈن case advmod cc nmod fixed
+– punct
+بولۇپ cop advcl root compound:lvc aux advmod nmod
+بولسا cop advcl root conj nsubj csubj compound nmod ccomp acl
+ئۇيغۇر compound amod nmod nsubj punct obj root conj
+قىلىش nmod obl root nsubj acl obj conj ccomp csubj
+قىلغان acl root conj nsubj ccomp parataxis
+قىلىپ advcl root compound:lvc advmod nmod acl ccomp cop
+بولۇپ، amod nmod nsubj nmod:poss acl conj root advmod obl obj punct aux advcl nummod cop appos flat
+باشقا amod root conj
+ئاللاھ obj nsubj root nmod obl cop punct compound conj nmod:poss
+يىلى nummod amod nmod advmod:tmod compound conj obl advmod appos root
+ئەڭ advmod
+بولىدۇ cop root aux ccomp parataxis
+مەن nsubj
+ئۆز det amod nmod compound:redup obj root compound
+ئىسلام nsubj nmod:poss nmod conj root obl appos
+دېگەن acl cop root punct ccomp
+يەنە advmod nmod case amod cc fixed root
+كۆپ amod root advmod
+ئىككى nummod
+ھەر det compound
+بار root amod acl conj parataxis ccomp nsubj
+شۇ det compound cop compound:redup
+كېيىن advmod case root
+ئىدى cop aux
+خەلق nmod compound nsubj root nummod conj obj
+كىشى nsubj root nmod nmod:poss obl
+چوڭ amod root conj compound parataxis
+ياخشى amod advmod root compound ccomp conj parataxis aux
+| compound punct case nmod cc
+ئۇنى obj conj
+قاتارلىق case cc amod compound
+ئۇلارنىڭ nmod:poss
+ئۇلار nsubj root obl
+بويىچە case cc
+مۇنداق advmod det compound ccomp root dislocated punct case nmod amod cop
+توغرا compound obl nmod advmod root cop case conj aux ccomp obj nsubj amod
+ھەمدە cc case nmod:poss nmod advmod
+قانداق det advmod compound root cop aux
+دۆلەت nmod nsubj nmod:poss root obj conj amod obl
+, punct root
+يېڭى amod conj
+ئۇنىڭغا obl case nmod root conj
+قىلىنغان acl root nmod conj ccomp nummod obl nsubj
+ماددا nmod nsubj obj root conj obl compound
+ئارقىلىق case advmod fixed cc nmod
+1 nummod punct root nsubj appos compound:redup compound
+كېرەك cop root compound ccomp acl nmod obj conj compound:redup parataxis
+شىنجاڭ compound nmod amod cc root nummod
+! punct root
+بىز nsubj compound obl
+تىلى nsubj root conj nmod obl amod nmod:poss
+خىل amod root det
+روزا nsubj punct obj appos root nmod
+ئېلىپ compound:lvc advcl root nmod compound conj obl
+تور nmod obj nsubj root obl conj compound
+كەلگەن acl root aux parataxis conj ccomp nmod cop
+قىلىدۇ root obj conj ccomp acl parataxis cop nmod aux
+ئەمەس cop cc root advmod ccomp compound case advcl
+ئادەم nsubj root nmod obj obl conj
+توغرىسىدا case root obl cop punct
+باش compound nmod root conj amod obl obj nsubj nummod compound:redup acl
+كۈنى advmod obl root conj nmod advmod:tmod ccomp compound nummod parataxis
+2 nummod root nmod punct compound:redup compound nsubj appos aux discourse
+بولسا، nsubj nmod amod root acl aux obj punct conj nummod cop compound nmod:poss
+ئەگەر cc cop advmod compound case
+يەر nmod compound nsubj compound:redup root obl obj
+ئاللاھنىڭ nmod:poss obj obl punct root nmod nsubj conj
+يەنى cc case advmod root nmod advcl compound obl conj acl cop
+بايان compound root acl amod obj cop nsubj
+ئوخشاش amod root advmod conj compound ccomp compound:redup acl
+مىڭ nummod root cop nmod conj
+ئېلان compound amod acl nmod root obj conj nummod
+سىز nsubj obl obj root
+قىلدى root conj acl advcl ccomp nmod parataxis compound:lvc
+يىل nmod amod obl nummod root nsubj advmod conj appos compound
+ئۈچ nummod root
+ھەققىدە case advmod punct cop obl root nmod compound:redup amod acl conj
+ئىگە root amod compound advmod conj parataxis nmod compound:redup ccomp case nsubj
+ئۆزىنىڭ nmod:poss obl root cop nmod compound obj
+ئىچىدە obl nmod case root nummod conj acl advmod
+قېتىم advmod amod root nummod nmod conj
+يوق root amod parataxis ccomp conj compound compound:redup nmod cop nsubj advmod
+پەقەت advmod amod cop nmod cc root conj compound case ccomp compound:redup fixed
+تىل amod nmod root punct conj obl nsubj compound:redup obj
+ئىبنى nsubj flat appos
+ئەمما cc advmod cop case mark det
+ئىش obj nsubj compound nmod root conj compound:redup obl ccomp acl cop parataxis amod
+چۈنكى cc case advmod cop
+؟ punct
+يۇقىرى amod advmod root compound
+قىلىشقا obl root advcl acl nmod compound conj compound:lvc ccomp
+بولدى cop aux root acl parataxis ccomp nsubj
+قوبۇل compound advmod obj punct root nmod conj amod
+دىنى nmod:poss nsubj root obl nmod conj compound obj
+ئوتتۇرا amod nmod conj compound nsubj root
+3 nummod root nmod compound nsubj compound:redup punct appos discourse conj advmod:tmod
+ھەم cc
+بەزى det case aux
+قۇرئان nmod:poss obl nmod nsubj root obj conj punct acl
+كىشىلەر nsubj root obl conj
+قالغان acl aux root nsubj conj parataxis nmod
+مۇشۇ det
+بارلىق det nsubj conj amod root
+بىرى nsubj root amod det conj compound nummod nmod:poss advmod ccomp obl parataxis cop compound:redup nmod
+مۇھىم amod root ccomp conj cop
+ناھايىتى advmod
+> punct ccomp compound root nmod amod flat conj discourse vocative
+ھازىر advmod case cc amod root conj
+ئاپتونوم compound nmod root nsubj
+ئۆزى nsubj compound obl root det obj nmod
+قىلىپ، acl amod obj nmod:poss obl nmod nsubj root advcl conj punct advmod ccomp flat aux
+تولۇق amod advmod root compound conj nmod obj acl obl compound:redup
+دۇنيا nmod nsubj compound amod appos root conj
+تەلەپ compound obj nmod advcl acl root case conj cc obl
+تائالا obj nsubj punct root nmod:poss obl nmod
+لېكىن cc case cop
+نىڭ amod nmod:poss punct nmod dislocated conj nummod root flat nsubj obl appos obj compound advmod
+islamqa.info punct
+تەرىپىدىن obl case nmod nummod root advmod conj ccomp amod dislocated appos
+يول obj nmod conj compound obl nsubj root ccomp
+ئاندىن advmod case nmod compound:lvc obl aux compound
+ئۇنىڭدىن nmod obl case compound det advmod conj root fixed nsubj cc obj nmod:poss
+ئادا compound obj nsubj root conj
+قىلىدىغان acl root advcl nmod conj parataxis ccomp obl
+قارشى acl root nmod obl amod compound:lvc compound conj advcl nsubj
+10 nummod root compound compound:redup cop
+كۈن nmod advmod obl nsubj root conj amod compound ccomp nummod
+‹ punct
+شۇنداق det advmod compound root ccomp mark cop
+جۇڭگو compound nmod nsubj appos conj root nummod obl
+پەيغەمبەر nsubj obl root conj nmod appos compound punct
+/ punct root
+ناملىق punct nsubj amod nmod det appos root flat
+كىچىك amod conj root compound
+بولمايدۇ cop root aux ccomp acl nsubj conj parataxis
+نۇرغۇن amod root conj nmod
+بولسۇن case cop obl nmod conj root ccomp cc nsubj compound
+يىللىق amod nmod nummod root compound advmod obj
+بۇنداق det compound advmod amod cop root
+قاراپ advcl compound:lvc root acl nmod aux advmod
+4 nummod root compound compound:redup nmod nsubj amod appos conj
+دەيدۇ root cop punct acl parataxis obl ccomp discourse
+مۇمكىن cop root compound advmod case ccomp acl conj nmod parataxis obl aux
+ۋاقىت nsubj root nmod amod conj compound obl det
+ئايال nsubj root amod conj nmod appos nmod:poss obl ccomp
+] punct nsubj appos obj root nmod parataxis nummod ccomp dislocated
+ناھىيىسى compound appos root nsubj punct obl nmod ccomp
+قىلىشى root nsubj obl acl conj nmod csubj advcl obj
+ئۇلارغا obl nmod root conj case compound nmod:poss obj
+يىلدىن nmod obl nummod amod advmod conj
+قانۇن obj nmod:poss obl nmod compound:redup conj root punct
+سۆز nsubj obj nmod root compound obl compound:redup conj ccomp punct nmod:poss cop amod
+ئىبارەت cop case compound aux root det advmod cc conj nsubj acl
+ناماز obj obl nsubj compound nmod nmod:poss root punct appos conj ccomp flat compound:redup aux cop
+پۈتۈن amod root
+مەلۇم amod compound root advmod cop aux nmod conj
+ئۇلارنى obj nmod root conj
+ئىنتايىن advmod
+كېلىپ advcl compound:lvc root acl nmod advmod aux
+بولۇش nsubj nmod cop conj root acl obl ccomp nmod:poss parataxis
+تۇنجى nummod amod obl nmod root compound conj advmod
+بۇرۇن advmod nmod root case obl advcl compound:lvc conj compound
+يەردە obl nmod root cop
+5 nummod root nmod compound nsubj compound:redup appos amod punct
+ھازىرقى amod compound det nsubj conj root nmod compound:redup
+بەرگەن acl root aux nmod det parataxis obl nsubj cop ccomp conj
+بولىدۇ، amod root nmod:poss acl nsubj obj punct nmod obl ccomp conj advmod aux cop advcl parataxis nummod
+ھەج nsubj obj compound punct root nmod conj
+ئۇيغۇرچە amod compound nmod acl det root punct obj nsubj ccomp appos conj
+كېيىن، amod nmod obl nmod:poss nsubj obj acl conj root advcl advmod nummod aux punct flat
+باشلاپ advmod case root nmod advcl compound:lvc
+چىققان acl aux root advcl nmod parataxis
+مېنىڭ nmod:poss
+يۈز nummod compound obl nmod root amod
+ئون nummod compound root amod
+مەمۇرىي nmod root obl conj case compound amod
+مۇھەممەد nsubj appos flat root punct nmod:poss conj
+بەلكى cc case advmod nmod
+ئالغان acl root obl conj nmod advcl
+تۇرۇپ advcl aux root compound:lvc acl advmod nmod
+تېخىمۇ advmod
+ئاينىڭ nummod nmod compound appos advmod:tmod amod conj
+نوپۇس compound conj amod dislocated root det nsubj nmod
+سۇ nmod nsubj obj compound conj root obl
+ئامېرىكا nmod nsubj conj root obl amod
+بۇنىڭ nmod:poss obl nmod compound root case conj nsubj cop
+سودا nmod nsubj compound root compound:redup
+شۇنىڭ compound case advmod cc nmod det conj obl
+پۇل obj nsubj root nmod obl conj compound:redup
+مۇسۇلمان nsubj nmod:poss obl root acl nmod ccomp conj compound amod punct
+قىسىم amod conj root nmod obl advmod acl
+مەدەنىيەت nmod amod nsubj conj compound compound:redup root parataxis
+تۈرك nmod:poss amod conj nmod root obl ccomp flat nsubj compound:redup
+دىن nmod obl amod nummod root compound nsubj conj dislocated det advmod parataxis compound:redup
+شۇڭا cc advmod case
+ھەممە det
+ئىلگىرى advmod case obl nmod root compound acl amod cop compound:redup conj
+ھالدا case advmod
+مائارىپ nmod root amod compound conj acl obj nsubj obl
+كىشىنىڭ nmod:poss root obl compound
+نى punct obj compound amod dislocated nmod root nummod advmod det conj advcl nsubj
+نەچچە det
+ئاز amod advmod root compound:redup compound nmod conj
+كىيىن advmod case advcl root obl compound:lvc aux nmod
+< punct compound root amod ccomp nmod appos
+نېمە compound obj det ccomp cop root advmod nmod nsubj obl discourse conj
+ۋاقىتتا obl advmod case nmod root acl conj fixed cop
+شەھىرى nsubj compound root nmod obl conj appos
+“ punct nmod:poss obl nmod ccomp obj root conj mark compound cop advcl det acl discourse flat advmod amod
+تۆۋەن amod nmod cop advmod acl advcl root compound nummod conj aux
+بەش nummod compound
+ئىلمىي amod nmod conj nsubj root
+ۋه amod nmod obj punct compound compound:redup nmod:poss conj advcl root obl acl
+تەتقىقات nmod conj obl nsubj obj compound root compound:redup
+يولغا obl obj root compound conj nmod
+ئۈستىگە obl cc nmod:poss fixed case root nmod det conj compound
+دىگەن punct root det cop nsubj compound nmod acl appos flat ccomp discourse compound:redup conj
+پەيدا compound amod advmod root
+چىقىپ advcl compound:lvc root acl nmod aux advmod
+سوت obj nmod:poss compound nmod nsubj obl conj
+بېرىپ advcl compound:lvc root nmod acl obl
+بېرىش nmod root obl acl csubj advcl conj obj compound:lvc aux compound
+ھەقتە det obl cop nmod obj root punct compound advmod ccomp
+كەتكەن acl aux root conj parataxis ccomp cop
+ئوقۇش nmod obj obl nsubj root conj nmod:poss aux advcl
+زور amod advmod root compound
+ئىچىگە obl nmod conj root amod det
+شەھەر nmod nsubj compound root conj appos punct compound:redup amod
+قەدىمكى amod compound det nmod
+ئۇيغۇرلار nsubj nmod nmod:poss root obl conj det amod compound:redup acl nummod
+ـ nummod amod nmod conj obl advmod root punct appos flat case advmod:tmod compound
+خىزمەت nmod obj compound nsubj conj obl root
+لازىم root cop compound aux advmod ccomp case conj punct amod nmod
+يېقىن amod obl root nmod:poss acl conj nmod appos nsubj
+كىشىلەرنىڭ nmod:poss root nmod
+بىزنىڭ nmod:poss nmod root
+بولىدىغان acl root cop nsubj nmod conj parataxis obl ccomp aux compound
+سانى root nsubj nummod nmod obl conj
+نەرسە nsubj obj root nmod:poss obl conj punct parataxis cop ccomp nmod
+قىلغۇچى nsubj acl nmod root obj conj obl ccomp compound
+ماڭا obl nmod root cop conj compound parataxis
+6 nummod root compound nmod compound:redup punct amod discourse appos nsubj
+جازاسى nmod compound root nummod obl obj conj
+ئارىسىدا nmod:poss obl nmod root case advmod conj compound:redup cop
+بار، nmod flat nmod:poss amod nsubj conj punct root obj obl ccomp acl
+قىز nsubj root conj nmod amod appos punct
+قايسى det cop
+ئالاھىدە amod advmod root compound nmod case conj
+تارىخ root nmod conj amod nsubj obl flat acl appos punct
+ئالىي amod nmod conj nmod:poss obj compound obl nsubj root
+ئەمەس، nmod amod obl nmod:poss root nsubj obj conj punct advcl acl ccomp advmod parataxis
+ئۆزىنى obj nmod root nmod:poss
+قىلىش، obj nmod:poss acl amod punct root conj nmod obl nsubj advmod aux advcl
+قاتتىق advmod amod root compound nmod conj
+سەن nsubj obl root
+مىللىي amod nmod compound conj root obj
+مال compound:redup obj nmod nsubj root conj compound
+قىلسا root obj acl advcl nsubj nmod compound conj ccomp parataxis cop
+ئىنسان nsubj acl root nmod:poss obj conj obl nmod ccomp
+غەربىي nmod conj obl amod nsubj compound appos root
+بولۇشى nsubj csubj cop acl root conj obl ccomp nmod compound punct
+رايون punct nmod root compound conj obl amod nsubj nummod appos
+ئاساسىي amod root nmod conj nsubj obl
+ئاساسەن advmod case advcl acl nmod compound:lvc root obl cc conj
+شىركىتى nmod punct nsubj root obl obj conj acl
+تورى nmod nsubj root compound punct conj compound:redup appos
+ئىكەنلىكىنى cop advmod case compound root advcl acl obl det parataxis compound:lvc
+ئىككىنچى amod nummod advmod conj acl nmod root compound
+بەت nmod nsubj root compound punct obl conj dislocated appos compound:redup
+تارىخى nmod root nsubj obl punct amod conj nmod:poss ccomp appos compound:redup acl
+سىزنىڭ nmod:poss advmod cop det nsubj nmod obl compound
+يولى nmod nsubj obl root conj compound amod ccomp appos
+ھۆكمى root nsubj punct obl conj obj nmod
+ئىشلار nsubj root obl nmod conj punct
+ئاللاھقا nsubj obj root compound nmod conj parataxis obl nmod:poss
+قىلىشنى obj acl root compound nsubj nmod advcl conj
+ئىمام nsubj root appos flat nmod:poss punct obl
+رايونى compound nsubj nmod root conj punct appos obl
+بەك advmod root det conj
+7 nummod root compound nmod nsubj punct compound:redup appos amod conj
+ئەبۇ nsubj appos flat root
+ئۆزىگە obl nmod nmod:poss case compound conj root obj det advmod amod cop
+قەشقەر compound nmod nsubj appos conj root nummod dislocated ccomp
+قالدى aux acl root cop obl
+سۇلالىسى obl nsubj nmod acl nummod root ccomp
+قىلىنىدۇ root conj acl nmod ccomp cop advcl
+مەكتەپ nmod nsubj obj conj root obl amod compound
+ئېغىر amod conj root nmod:poss nmod compound advmod compound:redup obl acl cop
+ئەلەيھىسسالام nsubj root obl punct nmod flat appos obj
+قارا amod root compound conj appos
+نامى obl nmod nsubj root case cop compound conj flat ccomp acl appos advcl compound:redup
+قاتناش nmod obj nsubj conj root acl
+ئانا amod nmod nsubj root conj compound ccomp compound:redup
+ياردەم compound obj nmod root conj case amod advmod obl compound:lvc
+[ punct
+2016 nummod compound root compound:redup punct nmod appos nsubj
+ئالدىنقى amod nmod root nummod obl conj compound
+ئىجتىمائىي amod nmod conj nsubj compound root compound:redup
+شۇنداقلا advmod amod cc case nmod conj root
+سىرتقى root amod conj nsubj
+خەۋەر nmod compound root amod punct nsubj compound:redup obj obl
+بولمىغان acl root cop advcl nmod conj amod obl csubj aux
+كېيىنكى amod advmod nmod conj nummod root
+ئىشلارنى obj root compound nmod nsubj
+بولسىمۇ cop advmod aux advcl nmod:poss cc fixed root
+ئارتۇق nummod amod nmod compound root obl conj advmod cop acl
+بۇنى obj root nmod compound cop
+تەرەپ obj compound nmod nsubj conj amod obl root compound:redup
+ئاسىيا nmod nsubj root conj amod obl compound
+ساقلاپ compound:lvc advcl root obl advmod acl
+كەڭ amod advmod root conj compound nmod cop
+ئاياللار nsubj nmod conj root obj compound obl
+دۇلات nmod root compound nummod amod conj
+شەرقىي nmod amod conj nsubj obl compound
+ھەممىسى nsubj det obl conj root nmod compound
+the flat punct nmod:poss appos nsubj root
+دۇنيادىكى amod nmod nsubj conj obl root nmod:poss
+قايتا advmod obl nmod compound:lvc case conj root advcl acl compound amod
+مۇناسىۋەتلىك amod root conj compound advmod nmod case ccomp
+ئالدىدا obl nmod:poss nmod root case conj advmod advcl
+دەرىجىلىك amod nmod conj compound root obl
+تۇتۇپ advcl compound:lvc nmod root acl aux compound
+تۈركىيە amod nmod conj nmod:poss root compound nsubj obl
+باشقۇرۇش nmod acl root obj obl conj compound
+تاڭ nsubj nmod obl acl conj root appos flat det advmod punct cop nummod
+تۆت nummod compound root
+قۇرۇلغان root acl conj nmod amod obl nsubj compound aux ccomp
+ئالدى root compound amod nmod obl case conj acl aux advcl compound:redup cop obj advmod
+كەلدى root aux acl parataxis conj ccomp nsubj cop obl
+نوپۇسى nummod root compound nmod nsubj amod det conj
+ئىسمى nsubj root appos nmod:poss obl conj ccomp parataxis
+دەۋرىدە obl nmod case acl cop advmod ccomp nsubj root conj punct
+تۈرلۈك amod det root conj compound obj
+بولسىمۇ، amod nsubj nmod parataxis acl nmod:poss conj obl root cop advcl aux obj advmod punct
+مەشھۇر amod root nsubj appos ccomp conj compound
+قانچە det advmod nmod root compound fixed nummod
+چىڭ advmod acl nmod nummod compound:lvc obl advcl root compound conj case ccomp amod
+خاس amod root compound ccomp compound:redup punct conj
+مۇۋاپىق amod obj compound root conj ccomp nmod
+ئائىلە nsubj nmod conj root amod obl compound:redup obj
+پەن nmod root appos nsubj compound compound:redup conj obl amod flat
+8 nummod root compound nmod punct compound:redup nsubj appos conj
+جەھەتتىن advmod amod case conj nmod root compound
+ئۇزۇن amod advmod root nmod conj
+ۋىلايىتى nsubj compound punct root appos flat conj nmod
+ئاتوم amod root nsubj nmod:poss nmod
+ئۈچۈن، nmod:poss amod obj nsubj nmod obl root conj punct acl advmod advcl
+ئاتا compound compound:redup amod nmod root conj obj ccomp nsubj punct
+ئاق amod compound punct root conj
+بىرىنچى nummod amod advmod nmod root acl conj compound aux ccomp punct
+ئېلىش nmod obj root conj obl nsubj acl compound:lvc advcl compound
+تارىخىي amod nmod root nsubj compound det conj
+كەتتى aux root acl parataxis advmod conj obl mark discourse
+ئۆي nmod obj root nsubj conj compound punct compound:redup
+ئىچىدىكى amod compound nmod conj root compound:redup
+توي compound nsubj obj nmod conj root obl compound:redup punct nmod:poss
+يېزا compound nmod nsubj root compound:redup conj
+ۋاقتى nsubj obl nmod root compound conj acl cop advcl compound:lvc aux ccomp advmod
+ھارام compound obj root nsubj ccomp conj det parataxis nmod
+ئۇيغۇرلارنىڭ nmod:poss obl
+ئەر nsubj amod nmod compound:redup root conj appos
+تىلىدا obl nmod nmod:poss det conj acl amod ccomp nsubj compound:redup root obj
+بىرەر nummod det nmod acl amod root aux cop compound
+30 nummod root compound
+مىللەت nmod nsubj amod det conj root obl ccomp compound
+ئاساسلىق amod nmod conj nsubj compound root
+دىنىي amod nmod nsubj conj obl nmod:poss det compound:redup root case cop
+_ punct
+ھۆكۈم compound obl nmod obj nmod:poss advmod punct root compound:redup conj advcl
+بەردى root aux acl advcl nmod obj parataxis advmod ccomp
+تۇرغان acl root aux parataxis advcl obl conj
+we flat nmod:poss punct nsubj appos root
+كېلىدۇ root cop aux acl conj parataxis obl ccomp nsubj
+مەزكۇر det nmod amod nsubj acl punct conj root nummod compound mark
+1437 nummod
+ئۇلاش punct amod compound root nmod
+خەت amod nmod root obj compound nsubj compound:redup conj obl appos
+كىتاب obj nmod amod root compound:redup conj nsubj compound ccomp obl
+ئەل nsubj nmod flat appos root compound conj obl acl
+كۆز amod obj compound root conj nmod nsubj compound:redup parataxis
+قان nsubj obj nmod conj root obl compound aux acl
+1- obl nummod nmod root acl advmod flat appos advcl case punct conj
+ھوقۇقى nsubj nmod conj root compound:redup obl punct obj nmod:poss
+ئالىدۇ root obl conj nmod acl punct aux compound:lvc
+يازغان acl root flat amod aux nsubj appos conj ccomp nmod parataxis
+باج obj nmod root nsubj compound:redup conj nmod:poss
++ punct nmod obj root compound amod flat
+داڭلىق amod root nsubj conj nmod appos
+ئىجرا compound obj nmod obl root nmod:poss conj advmod case
+ئاياللارنىڭ nsubj nmod:poss conj nmod root obj
+вә nsubj appos flat root punct nmod
+گۈزەل amod root conj ccomp
+ئاي amod nmod compound nsubj nummod root compound:redup conj appos obj ccomp
+ئورنى nsubj root obl nmod:poss conj nmod
+كۇۋادىرات compound nummod root nsubj appos conj
+20 nummod root
+قىلىندى root acl conj ccomp cop aux nmod advcl advmod compound:lvc
+پەرز compound nsubj root obj punct nmod cop ccomp conj
+ئىبادەت obj compound root nsubj conj nmod punct obl
+ئاساسلىرى nsubj appos root conj
+ھەتتا cc advmod case conj det nmod compound:lvc compound root obl
+تۇرمۇش nmod nsubj conj amod obj compound root compound:redup obl
+مەسىلەن root conj nmod amod nsubj obl cc advcl acl discourse parataxis
+كۈچلۈك amod advmod root compound conj cop nmod
+جۇمھۇرىيىتى nsubj punct compound nmod:poss root nmod conj appos compound:redup nummod
+بېرىدۇ root aux conj acl ccomp nmod obj advcl parataxis
+بىلهن amod advmod case nmod advcl punct compound compound:redup root acl cc obl obj
+تۇغۇلغان root acl nsubj conj flat appos amod nummod nmod ccomp parataxis compound
+تەرجىمە compound amod nmod conj root compound:redup
+ئوغلى nsubj appos flat nmod conj root obl ccomp parataxis
+قاماق nummod compound nmod conj
+چاغدا obl nmod nmod:poss root cop
+بىرگە case advmod obl root compound compound:lvc nmod conj punct aux
+ھېچ det root nmod:poss cop conj nmod
+ياپونىيە appos punct nmod root dislocated conj amod compound obl
+مۇددەتلىك amod nmod conj advmod compound
+تەسىر advmod compound nmod:poss amod root conj nmod cop det obl
+ياۋروپا nmod nsubj amod conj root punct det
+ئىكەن cop root
+ئۇرۇش acl advmod nmod root compound advcl amod conj obl compound:lvc ccomp aux nsubj nummod
+تۆۋەندىكى amod det nmod nummod root conj compound obj nsubj
+ئورۇن nmod amod compound obl root obj conj nsubj compound:redup case
+قەدەر advmod obl nmod:poss amod nmod case conj cop aux root
+تەخمىنەن nummod amod acl root advmod compound
+ئىچكى amod nmod conj nsubj obl compound:redup det
+بىلىم nmod obl conj amod obj nsubj root nmod:poss acl compound:redup ccomp
+ھەق obj nmod:poss compound conj root nmod punct nsubj obl
+ياش amod nsubj nmod root obj conj compound appos
+ئىگىلىك compound nmod nsubj amod conj obj root compound:redup
+9 nummod root compound punct nsubj compound:redup appos nmod
+خوتەن compound nmod nsubj conj root appos
+زامان amod nmod acl nsubj root punct compound:redup appos compound conj
+قويغان acl root aux nmod ccomp conj advcl compound:lvc cop
+چۈشەنچە compound obj root det acl punct parataxis nmod compound:redup advmod cop obl conj
+قاتارلىقلار nsubj nmod root conj amod compound punct obl acl case dislocated nummod
+ئىشقا obl nmod obj nmod:poss root conj compound
+رەزىيەللاھۇ nsubj flat punct obj appos root
+شىركەت nmod nsubj obl obj conj root acl compound
+بىزگە obl nmod case compound nmod:cau cop conj root nmod:poss
+قىلىدۇ، root obj nmod:poss amod nmod acl nsubj punct obl conj advcl advmod ccomp aux
+ئوقۇغان root nmod acl advcl obl conj amod advmod aux
+ئومۇمىي nmod amod nummod compound root conj obj obl
+قويۇپ advcl compound:lvc root acl aux nmod advmod ccomp
+ئەسلى cop nmod case advmod obl nmod:poss conj det acl cc root nsubj compound advcl
+ئالتۇن amod conj nsubj root compound nmod obl compound:redup
+ئالاقىدار nmod nmod:poss obl obj conj compound nsubj root case amod
+شىمالىي nmod compound nsubj amod conj parataxis
+ئامېرىكىدا nmod:poss obl nsubj nmod amod root conj obj
+ۋاقتىدا obl nmod obj compound root conj case amod advmod nsubj advcl
+ۋاپات obl nsubj root nmod conj compound appos flat
+پارچە amod nummod nmod conj obj compound root det
+مانا advmod nmod cop det mark nmod:poss discourse amod aux advcl obl root conj acl cc
+ناخشا amod compound nmod root obj compound:redup conj punct ccomp nsubj appos
+قوشۇمچە nmod nummod compound obj acl amod conj root obl
+بىللە advmod case root amod compound:lvc conj nmod
+ئىشنى obj compound nmod obl root nmod:poss nsubj parataxis aux conj
+قايتىپ compound:lvc root advcl advmod nmod conj aux
+12 nummod root compound nsubj amod nmod punct compound:redup
+بالا nsubj root nmod conj nmod:poss compound:redup amod
+يېرىم amod nummod nmod conj compound advmod root obl
+قارىغان root acl cop conj compound
+ئىلىپ advcl root compound:lvc obl nmod
+َ flat nmod nsubj punct amod root obj appos nmod:poss
+قىلىشتىن obl nmod root compound advcl case advmod cop aux nsubj
+خەلقئارا nmod nsubj compound amod conj
+ئىلمى nmod root nsubj conj obl obj
+ھەققىدىكى amod case conj nmod obl advmod cc nmod:poss punct det
+ئاشۇ det
+مىليون nummod nmod compound amod conj nsubj root det
+بۇنىڭدىن nmod compound det advmod cop nummod nsubj obl case conj root acl
+ئوتتۇرىغا obl compound nmod case advmod root conj
+سان root appos nmod amod nsubj conj compound:redup punct compound ccomp nummod acl flat
+تۇرىدۇ aux root cop acl conj nmod parataxis cc
+سىياسىي amod nmod conj nsubj obl
+شەيخ nsubj appos punct flat obj root
+قىسمى obl advmod root nmod:poss nmod conj amod compound:redup case nsubj
+مىللەتلەر nmod nsubj root compound conj obl
+билән nsubj appos flat nmod root
+نەشر compound nmod nsubj amod nummod dislocated
+ئۆتكەن acl root aux amod conj nmod flat obl cop ccomp parataxis nsubj
+wikipedia punct root flat
+كۆرۈپ advcl root compound:lvc acl advmod obl aux
+0 punct compound nummod root nmod conj nsubj appos
+يەرلىك amod nmod conj obl nsubj nmod:poss acl
+ئۇچۇر nmod compound conj obj root obl nsubj amod
+خۇددى mark amod cop advmod root det discourse punct nmod conj aux
+بۇرۇنقى amod advmod nmod obl acl conj root
+ئۈرۈمچى nmod compound nsubj root conj appos amod
+ئايرىم obl case nmod conj acl compound:redup advmod advcl root nummod compound
+دۇنيادا nmod:poss amod obl nmod root acl conj advmod
+يۇمشاق amod nmod obj conj root acl det
+ھەرقانداق det cc punct compound advmod cop
+ئۇنداق det advmod compound cc cop obj root conj mark fixed advcl
+جامائەت nmod obj compound conj obl nsubj root
+ئەلەيھىسسالامنىڭ obl nsubj nmod root nmod:poss nummod appos flat
+ئەرەب nmod nmod:poss amod nsubj conj root acl obl appos punct
+سېلىپ advcl compound:lvc root advmod nmod
+قانۇنشۇناسلىقى(فىقھ nmod root nsubj flat obl obj
+ناھىيە compound nmod nsubj root compound:redup punct
+ئاساس compound amod root nmod obl conj acl
+مەركىزى nmod nsubj root conj obl punct compound amod
+ئىلتىماس compound nmod obj root conj
+غا punct nmod compound amod root dislocated conj obj nummod nsubj appos
+مېنى obj nmod:poss punct
+ئۈستىدە case obl nmod root compound conj fixed compound:lvc
+بولامدۇ؟ punct root cop aux ccomp nmod advcl obj acl nsubj parataxis advmod cc conj
+قىلىشنىڭ nmod obl nsubj root obj acl conj compound case advcl
+جۇڭخۇا compound nmod conj nummod nsubj
+مۇسۇلمانلار nsubj obl root nmod conj compound:redup
+نەرسىنى obj root nmod:poss nmod punct
+قولغا obl compound nmod acl root conj compound:lvc
+فىلىم nmod amod root punct nsubj compound appos conj compound:redup obl
+— punct root
+مەيدانى root compound nsubj nmod conj
+؛ punct root
+قۇرۇلۇش nmod punct compound nsubj obj root conj
+يەتتە nummod amod nmod advmod conj compound root obl compound:redup case
+بۈگۈنكى amod nmod nsubj compound root
+ئاساسى nsubj nmod obl root case conj compound nmod:poss amod ccomp compound:redup
+ئېنىق advmod amod compound root cop conj nmod case acl obl nmod:poss cc ccomp parataxis
+ئامانلىق punct obl conj nmod dislocated root obj nsubj
+مەخسۇس amod nmod obj conj compound root obl
+ئۇزۇنلۇك conj compound dislocated
+دۇنياغا obl amod nmod acl root conj nsubj flat nmod:poss
+لىك conj compound root amod
+بالىلار nsubj nmod obl conj root obj amod
+ھەدىس nsubj obj root punct nmod compound obl conj ccomp appos flat
+بېرىلىدۇ root conj punct nmod ccomp aux advcl
+تىلغا obl nmod case det compound root conj advmod nmod:cau
+چوقۇم advmod compound cop nmod advcl root obj conj aux punct ccomp compound:lvc
+ئىقتىساد root nmod nsubj conj obl compound punct compound:redup
+جەنۇبىي compound nmod nsubj amod conj root appos
+باھا obj nmod root compound conj nsubj obl
+جەھەتتە amod nmod:poss obl conj nmod advmod root punct case compound:redup compound det nsubj
+تەسىس compound nmod conj
+11 nummod root appos compound:redup
+رەسمى amod root nmod conj obl compound
+قول obj nmod nsubj amod compound compound:redup conj root obl punct
+تەڭ advmod amod root conj case nmod compound ccomp nummod cop
+ئەھۋالى root amod advmod nmod conj compound obl nsubj acl
+تائالاغا compound root obj nmod:poss nmod advmod nsubj obl
+بىلەن، nmod amod nmod:poss conj acl nsubj advmod obj root advcl punct obl nummod aux parataxis
+نەرسىلەرنى obj root conj nsubj
+تائالانىڭ obj nmod:poss root nsubj nmod cop
+ئايدا compound nmod nummod nsubj amod conj root appos advmod
+يېزىلغان acl root nsubj amod aux nmod conj ccomp
+دۇئا obj compound root punct
+سوۋېت nmod nsubj amod conj obl compound
+ئۇلۇغ amod root ccomp parataxis compound:redup conj compound nsubj
+تارتىپ advmod case compound:lvc root advcl nmod
+قانۇنشۇناسلىقى nsubj root appos ccomp nummod
+خارىكى compound conj
+ئاخىرقى amod advmod nmod conj obl case root cop
+بولىشى nsubj root obl cop conj nmod acl csubj nmod:poss punct ccomp
+نامازنى obj nsubj root compound nmod obl aux
+كىرىپ advcl root compound:lvc acl nmod aux
+خىمالىكاڭ compound conj
+ھالەتتە case cop obl advmod fixed compound nmod root cc conj amod
+توك nsubj root nmod obj conj amod obl
+بولغاندىن nmod advcl case aux advmod obl compound:lvc acl root compound
+date root nsubj nmod:poss ccomp
+سەنئەت amod nmod conj nsubj compound obl root
+چەت nmod amod conj nsubj
+بىن nsubj flat appos punct root
+قىلىمىز root obj acl ccomp parataxis
+bilen flat nmod:poss punct nsubj appos root
+ب nummod root nmod punct nsubj amod compound conj appos dislocated obl
+ئادەمنىڭ nmod:poss nmod obl root cop
+كۆڭۈل compound amod obj root conj advmod
+دېدى root parataxis flat discourse aux nsubj obl acl punct advcl
+سائەت nsubj nmod nummod amod obl conj root compound det
+مەقسەت compound root nsubj nmod cop advmod obj acl obl punct case aux conj
+published compound nsubj obl punct conj nmod:poss root
+تەتقىق compound amod conj obj
+ئىلىم nmod nsubj compound:redup conj amod obj root obl compound nmod:poss acl
+ئىقتىسادىي amod nmod conj nsubj compound obj root
+2- nummod nmod obl root appos case conj nsubj flat advmod punct advcl
+تۇتۇش nmod nsubj root acl compound conj parataxis ccomp obl punct aux
+داۋاملىق advmod obl compound compound:lvc nmod case root acl
+ھاسىل compound amod root advmod conj
+ھايات amod nmod root nsubj obl conj compound compound:redup appos ccomp
+بولۇپمۇ amod nmod:poss advmod nmod acl det cop conj root cc aux case
+دۆلەتنىڭ nmod:poss obl nmod conj acl amod nsubj
+قارايدۇ root cop aux acl ccomp
+نوپۇسىبار، nmod obl flat amod conj
+دېڭىز nmod nsubj conj amod compound root
+تاۋار nmod obj nsubj conj compound obl
+دۇرۇس compound root punct nsubj ccomp aux obj cop parataxis conj
+كاپىر nsubj compound root punct nmod:poss ccomp cop
+(2 nsubj root appos obj nmod:poss nmod compound:redup conj ccomp
+تېخنىكا nmod compound obj nsubj root conj
+bir flat nmod:poss punct nsubj root appos
+نۇپۇسى root conj punct amod compound nmod nsubj
+15 nummod root punct compound:redup compound nmod
+ئەينى det nmod obl acl cop case amod advmod nsubj conj
+توغرىسىدىكى case nmod amod compound obl root conj acl advmod cop punct
+الله punct obj nsubj nmod compound
+بۈيۈك amod nsubj conj nmod root punct compound case nmod:poss
+دەسلەپكى amod nmod acl obl advmod conj root
+مەنىسى nsubj root compound cop parataxis ccomp conj nmod case compound:redup obl
+(1 nsubj appos root compound:redup flat nummod obj nmod punct aux
+جايلاشقان amod root conj acl nmod nsubj obl parataxis cop ccomp
+گەپ obj nsubj compound root cop conj compound:redup nmod obl det
+ئۈمىد compound advmod root nmod conj det cop compound:redup fixed case punct discourse obj ccomp
+بەلگىلەنگەن acl nmod obl obj nsubj amod root conj aux advcl compound
+مەسئۇل nmod compound root obl obj conj amod case compound:redup
+دىكىبىخاھار compound
+قاراشلىق compound amod conj nmod nummod root acl appos compound:redup
+رىۋايەت compound nsubj root punct appos nmod
+مۇشۇنداق det advmod compound nmod cop mark amod
+ھوقۇق nsubj compound:redup nmod conj obl root obj nmod:poss compound
+ئايالنىڭ nmod:poss root conj nsubj cop obj
+ئەمدى advmod cop advcl root parataxis nmod mark
+بۇلۇپ advmod root advcl compound:lvc nmod cop obl aux acl case
+bu flat nsubj appos punct nmod:poss root
+دەۋرى root nmod nsubj amod obl conj compound ccomp appos nummod
+تەرك compound nsubj obj root punct cop nmod
+باشقىلارنىڭ nmod:poss obj amod nmod nsubj conj punct root acl
+ھېس compound advmod obj det compound:redup nmod
+بىلىدۇ root cop aux ccomp parataxis acl
+ئەدەبىيات nmod compound nsubj appos compound:redup conj root amod punct
+تەرجىمىسى punct nsubj flat root appos nmod
+گەرچە cc advmod cop nmod:poss det amod fixed conj root nmod case acl
+قىلىمەن root ccomp aux parataxis acl advcl obj compound
+بىكار compound obj root nmod nsubj conj obl aux advcl acl
+قاراڭ root acl flat cop parataxis vocative punct conj appos ccomp nmod
+ئوقۇپ advcl compound:lvc root acl nmod advmod aux
+ئۇسۇلى obj root nmod obl conj compound nsubj punct amod
+باشقىلار nsubj obl conj nmod root amod obj compound punct
+تەۋە root amod nmod obl compound conj det acl nsubj ccomp parataxis compound:redup advcl
+ئورتاق amod compound conj root acl nmod cop
+ھاراق obj flat punct root conj nsubj discourse vocative compound
+ئەركىن amod nsubj nmod conj appos root compound:redup
+سېستىمىسى root nmod conj nsubj amod obl
+سەھىھ obj root nsubj ccomp compound punct nmod acl parataxis fixed
+جاۋاپ obj compound root punct nmod compound:lvc flat aux
+سىزگە obl nmod obj root compound advmod det cop conj nmod:cau
+ئالىم nsubj nmod appos root amod punct conj flat ccomp compound obl compound:redup
+= nmod:poss obj nmod punct root nsubj amod appos compound conj flat
+يەرگە obl nmod root
+سۈپىتىدە case advmod obl nmod root conj
+رەت compound nmod root advmod obl compound:redup obj conj cop acl case
+يىپەك nmod amod compound nsubj conj root
+خەنزۇچە compound punct nmod root nsubj nummod appos amod flat compound:redup dislocated conj obj
+يازما acl nmod obj nsubj nmod:poss root obl conj amod det ccomp nummod
+جەرىمانە compound root obj nummod nmod conj
+چەكلىك nmod root compound nsubj
+ھۆكۈمەت nmod obl conj nsubj amod root acl compound obj
+توپ amod obj root nsubj compound nmod conj advmod punct compound:redup obl appos acl
+سىياسى amod conj nmod obl nsubj root nmod:poss
+رامىزان nsubj nmod acl obl root advmod punct amod advcl det compound
+تەربىيە root nmod obj conj compound amod obl nsubj
+مۇئاۋىن nmod conj compound nsubj amod root obl
+تەبىئىي amod nmod conj root compound ccomp compound:redup
+دائىرائىقىدا compound
+سانلىق amod nmod root conj nsubj
+زىيان obj nmod root acl nmod:poss conj nsubj compound:redup compound punct obl
+كىنو nmod amod compound nsubj root compound:redup punct appos conj flat
+دائىم advmod root aux nmod case
+ئاتالغان root acl nmod cop nsubj flat nummod parataxis conj aux advcl appos compound ccomp
+© nmod:poss nsubj nmod root
+مەبلەغ obj nmod nsubj obl compound conj root
+يار nummod punct compound nmod nsubj compound:redup root obj appos cop
+كۆرسىتىدۇ root cop acl aux conj parataxis ccomp obl
+بىرلىكتە case advmod obl root nmod conj advcl acl nummod compound
+ئىشلىتىش nmod acl obj root conj nsubj obl
+ئاراللىرى compound conj root nsubj compound:redup
+ئىنكار compound obj root nsubj appos conj
+تىن amod nmod obl nummod root conj nsubj compound:redup
+بۇنىڭغا obl nmod root det compound conj case cop advmod nmod:poss obj compound:redup nsubj acl
+ئىقتىسادى nmod nsubj acl conj root obl aux
+چىقىش acl obl nmod root compound aux conj compound:lvc advcl csubj nsubj
+m punct nsubj flat root nmod appos nmod:poss obj obl
+يىراق amod root compound conj advmod compound:redup punct parataxis ccomp
+جۇغراپىيە root nmod conj appos nsubj amod
+نەقىل compound nsubj punct appos root dislocated flat obj
+مايدانى nummod compound appos nsubj
+قىزىل amod root compound conj
+ھېسابلىنىدۇ cop root aux det nmod acl advmod ccomp
+ئەسەر amod nmod nsubj root compound:redup obj appos compound conj ccomp
+يالغۇز advmod amod obl conj nmod root nmod:poss cc mark advcl compound punct det case parataxis
+تەكلىپ compound root compound:lvc advcl nmod obj acl compound:redup obl conj ccomp cop
+كىشىگە obl root nmod nmod:poss conj
+ئىمان obj nsubj root compound nmod acl obl nmod:poss conj compound:redup punct ccomp
+بىراق cc det compound advmod root
+ئىبادەتلەر nsubj appos root compound
+سۈرە punct obj flat root appos nmod nsubj fixed
+ھەل compound nmod obl obj amod advmod aux root
+›› punct amod flat ccomp
+يېزىپ root acl compound:lvc advcl advmod aux cop
+رازى compound root obj conj amod nmod punct nsubj ccomp advmod obl
+دۆلەتلەر nsubj root nmod conj obl amod
+of nsubj flat nmod:poss punct root appos
+ئېرىشكەن acl root cop conj aux nmod amod advcl obl
+3- nummod nmod obl root amod conj appos nsubj flat punct
+ئەھمەد nsubj appos root flat punct conj
+پاي obl nmod conj nsubj obj nmod:poss compound amod nummod
+ئارىسىدىكى nsubj amod nmod conj root
+ئەمگەك nmod obj nsubj obl conj compound compound:redup root
+پايتەختى root amod nsubj nmod conj compound appos
+باشقىلارغا obj obl nmod compound root advmod conj case amod punct
+تەرىپلىشى punct obl root appos nsubj nmod flat
+تەرەپتىن amod obl advmod root case nmod nmod:poss conj compound:redup
+ئۆمەر nsubj flat appos root nmod obl punct conj
+قارار compound nmod obj punct root obl conj aux compound:lvc parataxis acl
+جەريانىدا obl case nmod advmod root
+يامان amod acl root compound obj conj ccomp parataxis nmod advmod compound:lvc mark
+24 nummod root compound conj appos punct
+бир nsubj appos flat root nmod punct
+ئادەت nsubj root nmod obj nmod:poss conj obl compound compound:redup det amod
+ماقالە nmod obj nsubj root obl conj compound:redup compound amod dislocated det acl
+قېلىنغان acl nsubj root aux nmod:poss obl
+ھەربىي amod nmod conj compound obl compound:redup nummod
+بولغان، nmod acl amod nmod:poss obl root nsubj punct conj nummod advcl obj advmod parataxis appos cop
+يىغىنى root nmod obj nsubj obl conj amod compound
+ئالدىغا obl nmod acl conj root
+ئالىملار nsubj root amod nmod conj appos obl nmod:poss nummod
+جازا obj compound nmod obl nmod:poss root conj punct nummod
+ئىسىم nsubj root nmod obl obj compound:redup compound conj punct cop acl ccomp
+مەھكىمىسى nmod compound obl conj acl compound:redup root nummod cop
+دائىر case nmod amod obl conj acl compound
+باي amod nsubj root compound conj nmod ccomp compound:redup acl parataxis
+ئوچۇق amod advmod compound conj nmod root acl cop compound:redup
+بېرىلگەن acl root aux cop conj ccomp det nsubj nmod case compound
+نەشىر compound nsubj nmod dislocated aux amod
+سادىر nsubj compound punct nmod root nmod:poss amod conj obj nummod compound:redup parataxis
+سېلىش nmod acl root obj obl compound conj compound:lvc
+تىلنى compound obl det amod nmod advmod nmod:poss compound:redup root nsubj
+كەرىم nsubj obl nmod:poss nmod obj root
+قويۇلىدۇ root aux cop advcl conj nmod
+دىنىغا obl nmod:poss nsubj nmod root compound compound:redup
+كىم nsubj obj root nmod parataxis punct ccomp acl obl compound det conj flat dislocated
+ئىنساننىڭ nmod:poss nsubj obj root conj obl nmod
+بەلگىلىمە obl obj nmod:poss nmod root punct conj
+قارىغاندا advmod acl amod nmod root cop advcl aux conj compound:lvc obl
+ئائىت amod nmod obl conj acl case compound compound:redup root
+تاشقى nmod amod conj compound obl nsubj acl root
+تەكشۈرۈش nmod acl root obl conj obj compound nsubj compound:lvc
+ئورنىغا obl nmod case advmod nummod conj compound:lvc root
+دە mark compound advmod punct nmod root nummod obl aux cop conj advcl dislocated compound:lvc
+قالىدۇ aux root cop acl advcl parataxis conj
+row root nmod
+يۇقىرىقى det nmod amod advmod obl compound acl conj cop obj case compound:redup
+100 nummod compound nmod root amod punct conj
+چۈشۈپ compound:lvc advcl root acl advmod
+دەۋەت compound obj nmod conj root punct obl
+ئەدەبىي amod conj nmod det
+مۇلازىمەت nmod compound nsubj obj conj obl root
+ئادەتتە amod advmod nmod conj mark root ccomp cc
+دەرىجىدە advmod amod nmod root conj compound cop
+بولغاندا advcl acl advmod cop obl root nmod compound:lvc aux conj fixed parataxis case ccomp
+سەۋەبىدىن nmod:poss advmod obl nmod root amod compound conj nsubj case cop compound:redup
+ئىلى nmod compound conj root appos nsubj punct
+تاش nmod nsubj compound root conj amod obj compound:redup obl
+بىزنى obj nmod root conj punct nmod:poss
+to flat punct nsubj appos root
+iso root nummod compound
+cell root
+مەھكىمىسىگە compound acl root nmod obl conj case cop compound:lvc
+باشلىدى aux root conj advcl nmod acl compound:lvc advmod ccomp
+ئالتە nummod amod conj
+خاتا compound obj nmod det root acl advmod amod obl ccomp conj cop case nsubj parataxis
+كۈندە advmod amod nmod root obl fixed conj compound case
+نىمە nsubj obj compound root ccomp punct nmod cop obl
+زىچلىقى punct root nmod:poss nsubj amod
+بېرىشى root conj nmod csubj obl advcl compound acl obj aux ccomp
+(3 nmod:poss root nsubj obj appos nmod obl discourse compound:redup conj amod
+موڭغۇل nmod compound nsubj conj amod nummod obl root det acl
+بېشىغا obl nmod:poss nmod advcl nummod nsubj
+كەسپى nmod obl nsubj obj conj root compound
+كىشىنى obj root nmod:poss nsubj conj compound nmod cop
+بىۋاسىتە compound nmod nummod acl conj case amod cc obl root advmod compound:lvc
+مۇستەقىل amod advmod obl conj nmod root nmod:poss
+ماشىنا compound nmod nsubj amod obj root conj obl
+كۈچى nsubj nmod obl root conj acl ccomp
+كۋادرات compound nummod nmod root
+ھەرقايسى det amod compound advmod nmod conj
+كىرگەن acl root aux obl advcl conj nmod cop advmod
+قۇبۇل compound obj nmod conj root advmod
+ئىسا nsubj nmod:poss root acl obl nmod punct appos flat conj advcl
+قادىر obj acl root nsubj compound punct flat appos nmod:poss aux nmod conj parataxis compound:redup amod advmod ccomp case nummod
+قىلسا، obj nmod:poss root amod acl nsubj nmod obl conj punct advmod advcl compound
+سۆزى nsubj appos nmod root obl conj cop flat ccomp amod compound case nummod punct nmod:poss
+يىڭى amod nmod nsubj conj compound root punct appos
+تەرەققىي compound amod advmod conj nmod obj
+تۇتقان acl root nsubj amod nmod aux conj cop advcl ccomp obl compound advmod
+ئاستىدا obl nmod root advmod conj case nmod:poss acl compound advcl
+تۇرىدىغان acl amod aux conj root parataxis nmod advcl cop
+مۇسۇلمانلارنىڭ obl nmod nsubj nmod:poss conj root compound
+رەسمىي amod advmod nmod obl conj compound parataxis ccomp root compound:redup
+خېلى advmod nmod amod
+رول amod compound root obj conj nsubj aux nmod punct advmod
+نۇقتىسى root amod nsubj obl
+1, punct nmod root
+ئازىركى punct nsubj appos nummod
+بېرىپ، acl amod obj advcl nmod:poss nmod advmod obl conj root nsubj punct aux flat ccomp
+جايلاخكان، nmod obl conj compound
+مەسىلەن، nmod:poss amod nsubj nmod obl obj nummod appos ccomp conj advmod root
+تۆمۈر amod nmod nsubj root conj appos compound flat obl
+بېتىگە nmod:poss nsubj obl obj
+دىققەت compound obj amod root conj nmod advmod
+كىشىلەرنى obj nmod root conj compound nsubj amod
+ئاڭ cop conj amod nsubj nmod:poss compound:redup root compound
+قويدى aux root advcl acl compound:lvc cop conj
+دادىسى nsubj obl appos flat root nmod
+پۈتۈنلەي advmod nmod advcl case acl obl conj root
+ساڭا obj obl punct nmod nmod:poss root cop nsubj mark
+سۇلالىسىنىڭ nmod nummod obl acl nsubj conj flat appos
+50 nummod root conj compound nmod compound:redup
+بولمىسا advcl advmod root cop acl conj nmod compound:lvc csubj obl aux nsubj
+مەيلى cc case amod nmod conj advmod root nmod:poss punct compound compound:redup ccomp
+سەل advmod compound amod conj root nmod
+ْ flat amod nmod root punct nsubj obj conj obl
+مەۋجۇت root obl compound nmod amod conj cop acl nsubj det parataxis advmod ccomp
+بولغاچقا، amod nmod acl obl nsubj nmod:poss conj advmod advcl obj aux cop nummod root parataxis punct
+تىجارەت nmod compound obl conj obj nsubj root
+مەملىكەتلىك nmod amod compound nummod nsubj conj
+جىمى nsubj nmod:poss
+بېرىشىڭلارنى compound cop root ccomp
+كېلىدىغان acl obl amod root nummod nmod conj advcl compound compound:redup parataxis
+نام obl nsubj compound nmod compound:redup root obj flat conj det amod parataxis appos ccomp
+ئاتىلىدۇ root aux acl nsubj conj nmod flat ccomp compound:redup parataxis
+كونا amod compound nmod conj root acl obl nsubj nummod
+سىلەر obj nsubj punct nmod root compound obl discourse conj flat
+бу nsubj appos flat root nmod
+پىكىر compound obj amod conj nmod root compound:redup punct
+مەڭگۈ amod advmod root obl compound conj punct nmod:poss nmod cop det flat ccomp nsubj
+بارلىققا obl compound advmod nmod amod root conj
+بۇيان advmod acl amod nmod compound:lvc cop root aux obl advcl
+ئاقسۇ compound nmod conj nsubj root
+يۇقىرى، nmod nummod nsubj obl amod conj nmod:poss
+يېتىپ compound:lvc root advcl acl obl nmod aux
+ئاللاھتىن obj punct nmod nsubj root compound nmod:poss appos
+شەكلى amod root nmod obl conj compound nsubj case mark compound:redup ccomp det punct aux advmod
+كىلومېتىر root nmod conj obl det nummod punct appos amod nsubj compound
+يۈرۈش compound amod nmod acl conj compound:lvc advcl root compound:redup advmod obj parataxis
+خان acl nsubj flat nmod root obl conj appos amod compound nummod compound:lvc ccomp advcl
+ئوت nmod nsubj amod obj compound conj root compound:redup obl
+ھەق-ھوقۇقلار nsubj root flat
+ئۆتۈپ advcl compound:lvc root advmod acl nmod conj aux
+چوڭقۇر amod advmod root compound conj nmod
+مىللىتى nsubj appos nmod root punct acl flat obl compound:redup conj ccomp
+سىزنى obj root nmod compound obl det advmod nsubj conj acl
+نىكاھ nsubj compound nmod punct root conj compound:redup det cop obl amod
+زۆرۈر compound nmod root conj cop advmod amod aux nsubj ccomp obj obl case
+ھەرىكەت amod compound nmod conj ccomp obl root nmod:poss nsubj punct advmod obj compound:redup
+قىلغان، amod nmod obj nmod:poss obl acl root punct advcl nsubj conj advmod flat ccomp nummod
+بولمايدۇ، root punct nmod acl ccomp nmod:poss obl obj amod nsubj cop advmod advcl parataxis conj aux
+كۈندىن obl nmod root nmod:poss conj advmod
+زىيارەت compound nmod root obl punct nsubj cop nummod
+تېز amod advmod compound root compound:redup conj
+چىن amod nmod compound conj root punct acl obj flat nsubj appos ccomp obl
+ئىشلىرى nmod nsubj obl conj root compound amod
+بازار nmod nsubj compound conj obj root obl
+بۇلارنىڭ nmod:poss det nmod nsubj obl
+يەنىلا advmod amod nmod cop acl root nmod:poss aux conj
+نەشرىياتى punct compound nummod appos root nmod conj
+قىلدى، obj obl nmod punct amod nmod:poss root nsubj acl conj advmod ccomp advcl parataxis flat nummod
+سانائەت nmod nsubj conj compound obl
+ئۆتكۈزۈپ compound:lvc advcl root nmod acl compound conj
+ھەرخىل det amod compound nmod conj
+نىشان nmod:poss obj root nmod compound acl conj amod nsubj obl advcl advmod
+ھەقىقىي amod conj nmod advmod root compound:redup punct ccomp det compound
+25 nummod root compound appos punct nsubj
+13 nummod root compound:redup compound nmod nsubj punct
+قېتىملىق amod conj root nmod obl nsubj advmod
+كەسپىي amod nmod conj obl root compound obj
+توپلىمى punct root nmod nsubj appos compound nummod conj flat compound:redup parataxis dislocated
+كەلگەندە advcl advmod acl obl nmod compound:lvc aux case conj
+ھاۋالە obj compound nmod nsubj
+يېزىق root amod nmod det compound obl conj nsubj obj
+قىلغاندا advcl advmod case root acl nmod obl fixed compound:lvc compound punct aux
+قويۇش acl advcl root nmod obj obl csubj conj case compound:lvc aux
+خىلاپلىق obj compound nmod punct conj root amod
+كۆپرەك amod advmod nmod compound root acl nummod compound:lvc advcl conj det
+كەسىپ acl root nmod compound conj amod nsubj obj ccomp obl advmod aux
+ھەزرىتى nsubj nmod:poss appos acl obl flat root nmod conj
+تۈركىي amod nmod nmod:poss conj det root nsubj obl compound:redup
+ھۆكۈمىتى obl nmod acl conj nsubj root advmod punct advcl
+بۈگۈن advmod root mark nmod
+جۇمھۇرىيىتىنىڭ nmod:poss conj amod compound
+شۇنىڭدەك case nmod conj cc advmod amod compound punct root fixed obl nsubj acl ccomp
+مۇزىكا nmod amod conj compound root nsubj obj compound:redup punct
+شەرت compound cop nmod aux root punct case conj amod nsubj compound:redup parataxis advmod obj obl fixed
+ھازىرغىچە advmod amod nmod obl det conj root nummod compound compound:redup
+چىرايلىق amod root compound conj ccomp parataxis
+ئاۋاز nsubj obj nmod conj obl punct root amod compound
+دەرھال advmod cop root case compound:lvc
+ئەھۋال nmod obl nmod:poss advmod root cop compound conj mark amod aux
+تەرەققىيات nmod conj nsubj amod obl compound root ccomp nmod:poss
+مۇناسىۋىتى nsubj obl nmod root conj amod case punct
+قانۇنىي nmod nsubj conj amod compound:redup nmod:poss obl punct
+كېرەك، obj nmod:poss nsubj punct obl amod nmod root conj ccomp parataxis flat
+4- nummod nmod obl root conj punct appos dislocated
+تاماق obj nsubj nmod conj root punct obl compound amod
+باھاسى nmod nsubj root obl obj conj
+ئېتىقاد compound obj nmod advmod amod conj punct root obl acl nsubj cop det compound:redup nmod:poss
+ئېلىنغان acl root nmod obl conj cop ccomp flat
+ھەقىقەتەن advmod nmod cop cc root case ccomp advcl discourse compound fixed
+تەۋبە compound obj punct root nsubj
+باب nmod obj root obl conj compound
+ھەممىدىن advmod obj amod nmod:poss nmod root compound conj obl
+سۇئال-جاۋاب nsubj
+ئالاھىدلىكلىرى root
+تاغ nmod nsubj compound amod root conj compound:redup
+چىقتى root aux acl parataxis amod advmod compound:lvc obl cop nmod conj
+قەرز obj nsubj nmod obl nmod:poss conj root compound punct det
+دەل advmod det compound:redup nmod conj cc amod obl case cop root
+خۇسۇسىيىتى det root conj nmod amod nmod:poss obl obj
+يوق، nmod:poss nmod punct obl nsubj root amod obj ccomp conj acl advcl flat
+تېخى advmod nmod cop mark root det
+ئابدۇللاھ appos nsubj flat punct root nummod
+500 nummod nmod compound conj root amod obj
+تۈر root punct nsubj obl nmod amod conj det nmod:poss obj
+ئۆزلىرىنىڭ nmod:poss nmod obl advmod conj root case amod
+بولغاچقا cop advmod advcl case nmod aux acl conj obl amod det
+ئۇيغۇن compound nmod:poss obj obl nmod root conj advmod acl ccomp cop amod punct nsubj
+ياشىغان acl root cop conj nmod ccomp aux amod obl flat
+رايونلۇق compound nmod amod root nsubj conj
+-- compound nmod nsubj punct root appos amod
+شەكىلدە amod nmod compound obl obj conj root det punct case nsubj fixed advmod
+ئىدى، nsubj amod nmod:poss nmod root obl conj punct obj advmod acl ccomp flat parataxis cop compound:redup
+يېزىقى nsubj nmod root amod obl det ccomp conj compound punct acl appos
+قۇربان compound nmod nsubj root amod conj flat appos acl punct compound:lvc ccomp obl
+يېرى nsubj root nmod obl ccomp conj
+ئەمەل compound obj punct conj nmod root cop case
+دەۋا compound nmod obj conj obl root acl compound:redup cc nsubj
+خاستۇر root cop nmod:poss
+ژۇرنىلى compound appos root dislocated nmod nsubj conj punct nummod compound:redup
+مەركىزىي nmod amod conj nsubj root compound obl
+باشلىقى nmod conj root obl nsubj compound appos punct amod flat
+ئوغۇز nsubj amod root nmod conj appos obl ccomp flat compound:redup det nummod
+29 nummod root compound conj nmod dislocated appos nsubj
+ھەقىقى nsubj compound nmod punct root conj obj cop amod det ccomp obl
+مۇئامىلە compound obj nmod root amod conj punct obl nsubj advmod
+دائىرىسى obl nmod conj root compound amod nsubj case acl parataxis
+ئايالى nsubj obl root conj nmod
+بىلىپ advcl root compound:lvc advmod acl obj aux ccomp compound
+a nsubj flat punct root appos nmod:poss conj
+ئۇلاردىن obl nmod conj root obj case fixed nsubj advcl amod nummod acl
+ئى punct nsubj discourse root obj compound conj vocative nmod appos aux
+and nsubj flat punct root appos nmod
+ئېدى cop aux root acl
+چىقىدۇ root aux advcl acl conj nmod cop
+قىلمىغان acl root advcl nmod nsubj obj parataxis ccomp cop conj
+لايىق amod root compound obj ccomp nmod conj advmod nsubj punct obl
+نامىزى nsubj root nmod punct compound nummod cop obl
+گرام، amod conj obl nummod obj nmod nsubj nmod:poss root
+شەرىئەت obj nsubj nmod:poss punct root conj
+مۇناسىۋەت nsubj obl root conj nmod compound amod
+قويۇلغان acl root aux advcl nmod compound:lvc conj cop
+ساقلاش obj nmod nsubj root conj obl acl amod punct
+ئالىملارنىڭ nmod:poss nsubj obl nmod root compound case
+قاراش nsubj acl root obl obj conj nmod nmod:poss compound punct det aux amod compound:redup
+بايرىمى nsubj root amod nmod conj appos ccomp compound punct nummod
+چىقارغان acl root aux advcl nmod conj amod cop
+تۈرى root nsubj nmod conj obl amod ccomp
+ھېچقانداق det cop nsubj root
+1997-2016 root
+قىسقىچە nmod compound root acl amod nsubj ccomp det obj conj dislocated
+بىرلىكى punct obl root nsubj nmod conj case cop acl
+ئىنسانلار nsubj nmod root obl conj
+جايلاخكان root amod conj compound
+مۇھەببەت amod nsubj root conj compound appos nmod obj punct compound:redup ccomp obl vocative
+پايدىلىق amod compound root conj ccomp cop
+غەرب nmod nsubj conj nmod:poss amod obl acl
+ئېغىز amod compound obj root nsubj conj nmod punct
+تارمىقى nmod obl compound conj obj case parataxis amod root nmod:poss acl nsubj compound:redup
+نىسبەتەن acl amod nmod advmod root conj cop advcl nsubj compound:lvc ccomp aux obl
+باشلىغان aux acl root advmod advcl nmod conj obl cop case
+ھۇجۇم compound advmod obl nmod root compound:lvc amod conj acl
+م root parataxis discourse nmod punct amod conj advcl aux obj flat appos compound:redup cop
+ئىستاتىستىكا root nmod:poss obj
+قوش amod acl nmod conj root punct obj aux
+قىلىۋاتقان acl nmod root obl advcl conj nsubj advmod cop
+شۇنىڭدىن nmod obl det advmod case acl compound nummod root
+سېنىڭ nmod:poss obj punct root nmod obl
+پۇلى obl nmod root obj nsubj conj compound
+2007 compound nummod appos root punct compound:redup
+تۇز obj nmod amod conj root
+بولاتتى cop aux root conj ccomp acl compound parataxis
+ئۈرۈمچىدە obl nmod root dislocated flat appos conj nummod amod punct nsubj
+بارغان acl root obl aux advcl nmod conj compound:lvc
+и appos nsubj flat punct root nmod
+كىشىلەرگە obl nmod obj root compound advmod conj case amod acl
+بەزىدە advmod cc amod det nmod root compound advcl cop case punct conj
+كۆرگەن acl root parataxis conj aux nmod ccomp nsubj
+ئەمەلگە obl compound advmod nmod obj conj amod det acl root nmod:poss
+ئۇنداقتا discourse mark det nsubj root cop nmod cc advmod vocative compound conj fixed nmod:cau obj
+ئەزا nsubj nmod conj root compound amod
+ئايەت root obl nmod obj appos conj nsubj dislocated cop punct nummod
+ئاخىرى obl advmod nmod root conj acl aux advcl case
+تاپقان acl root conj nmod cop obl ccomp
+ئۈچىنچى nummod amod acl nmod conj obl root
+تېگىشلىك amod compound nmod nmod:poss obj root acl conj obl ccomp aux advmod cop
+جاۋاب compound obj root flat compound:lvc punct obl nmod
+تەسىرى nmod:poss root nmod obl conj advmod amod nsubj ccomp
+كېسىم obj nmod compound conj obl root acl
+دېگەندەك acl advcl advmod root amod cop compound:lvc aux nmod compound cc mark
+سېتىلىدۇ root punct conj acl nmod nsubj amod
+ئىشلەپچىقىرىش nmod compound nsubj conj obj root compound:redup
+خانلىقى obl nmod nmod:poss nsubj root punct conj appos
+ئات nmod nsubj compound root obj conj amod compound:redup appos
+ئەمەلىي amod conj obj compound root nmod
+مەھمۇد punct nsubj nmod:poss flat appos root
+ئىنسانلارنىڭ nmod:poss conj root nmod obl
+ھاياتى nsubj obl root nmod punct conj amod nmod:poss
+ئۆلكىسى compound nsubj nmod root appos conj obl det
+بولغانلىقى cop obl nmod case conj acl nsubj root det aux parataxis compound nmod:poss amod compound:lvc
+ئىشلاردىن obj nmod root nsubj compound obl conj
+سۆزنىڭ nsubj det cop nmod nmod:poss conj root ccomp amod compound compound:redup case parataxis
+ھوقۇقىنى obj obl nmod nsubj conj compound root
+23 nummod root conj appos
+پاتېنت nmod obj obl compound conj
+كۈچ obj obl nmod amod compound:redup compound conj root punct ccomp acl advcl compound:lvc
+ئەپەندى flat nsubj nmod punct appos obl root conj ccomp acl nmod:poss
+بېرىشنى obj advcl acl compound root nmod compound:lvc aux
+كومپيۇتېر nmod obj nsubj conj amod obl root compound
+سەۋەبى obl root nmod nmod:poss nsubj conj cop advmod amod compound:redup acl compound aux mark
+قىلمىشى nmod nummod advcl obl conj nmod:poss acl root amod compound advmod
+ياخشىلىق obj compound root amod punct nmod nsubj conj compound:redup ccomp parataxis
+ئوسمان nsubj acl flat nmod obl root conj appos advcl nmod:poss nummod
+داۋالاش obj nmod conj punct root acl compound:redup nsubj
+جەمئىيەت nmod nsubj conj amod obl root nmod:poss
+قىلمايدۇ root advcl ccomp parataxis cop obj
+يۇقىرىدا nmod obl compound det obj root advmod case cop nummod
+سورايمەن root acl cop aux parataxis ccomp
+ناچار amod conj compound advmod root nmod obj ccomp det obl nsubj
+كۇنى nummod appos nmod
+يولىدا obl case compound root nmod conj advmod
+تەشكىل compound amod conj nmod root nummod
+ئاخىرىدا obl advmod nmod conj root amod case
+كىشىلىك amod nmod nmod:poss conj obl nsubj
+نومۇرى root nmod obl conj compound
+ئالدىنى obj conj compound nsubj
+[سۈرە punct nsubj
+مۇقەددەس amod nmod nsubj conj compound root advmod obl
+بولمايدىغان acl nmod aux compound root nsubj cop conj amod csubj
+نۇپوس nmod:poss
+كومىتېتى nmod root compound obl nummod nsubj acl conj
+ئارا nmod amod conj nsubj compound root obj obl
+阅读全文 compound nmod
+ھالىتى root det nsubj nmod obl
+分 obl nsubj conj
+پەرۋەردىگارى nsubj nmod obl root parataxis nmod:poss
+رادىئوسى root nsubj nmod obj
+享 root conj
+تۇراتتى aux acl root obl cop amod conj advmod
+ئاشكارا compound nmod obl root obj case conj punct fixed advmod amod
+28 nummod root compound cop compound:redup appos nsubj
+نۇر amod nsubj nmod compound obj conj punct root compound:redup ccomp
+سەپەر nsubj compound root appos nmod flat punct conj
+ئۇزاق amod advmod root conj
+ھالال obj compound root ccomp nsubj punct conj discourse parataxis nmod vocative
+ھەدىستە nsubj root compound punct appos obj cop parataxis
+ھەقسىز nmod obj compound amod root conj acl advmod
+قانچىلىك amod det advmod acl root conj nmod aux compound
+ُ amod obl nmod flat root punct conj
+مىسال root nsubj punct compound obj nmod amod det obl
+ئۇنىۋېرسىتېتى nmod root nsubj conj compound appos flat punct acl
+14 nummod root compound:redup compound nsubj appos nmod
+ئۆلچەملىك amod root nmod nsubj
+ئەسىرى nsubj punct nmod appos root amod flat obl compound:redup nummod dislocated det compound ccomp
+مول amod root conj nmod:poss advcl
+ئەخلاقلار nsubj compound appos root conj
+19 nummod root appos compound nmod compound:redup punct flat
+ئانچە advmod
+قىلدىم root aux advcl ccomp parataxis obl acl advmod cop nmod
+ئىنتېرنېت root nmod nsubj amod obl conj compound
+قالسا aux advcl acl root compound:lvc nmod cop advmod conj obl
+ئەتراپىدا obl amod advmod nmod root conj det nummod cop compound advcl acl
+ئوقۇشقا obl root case advmod nmod advcl compound:lvc
+ئۇنىڭدا det obl nmod nmod:poss nsubj root conj case amod acl compound:redup
+يەتكەن acl root amod cop aux nmod nsubj conj parataxis advcl
+دەرياسى nmod nsubj compound obl conj root appos
+دىنىنىڭ nsubj nmod:poss obl nmod conj root punct
+تاقىم compound amod
+ئەسەرلىرى nsubj nmod root amod conj obl appos compound
+18 nummod root nsubj appos punct compound
+نازىل compound punct nmod obj nsubj dislocated conj root obl
+كاتتا amod root advmod nmod compound conj obl
+كىرىم root nmod compound compound:redup obl obj nummod conj
+سەۋەب obl compound root nsubj nmod nmod:poss conj det punct amod acl cop compound:redup aux obj compound:lvc
+ئانىسى nsubj obl root conj nmod appos flat amod
+ياسالغان acl amod root conj nsubj ccomp advcl aux nmod compound
+سۆزنى obj nsubj root det acl cop nmod discourse compound:redup fixed parataxis punct obl mark appos advmod
+يىلىدىن nummod nmod obl appos amod conj flat root
+ئەزاسى root conj amod obl nsubj nmod appos compound aux punct
+گۇناھ nsubj root compound punct obj conj compound:redup ccomp obl
+كېتىدۇ aux root cop nmod ccomp advcl conj parataxis
+سۆزلەر nsubj nmod root obl det conj ccomp compound obj appos compound:redup
+مەمۇرى nmod obl conj compound amod
+ئازراق obj amod compound root nmod conj punct fixed
+مەكتەپتە obl nmod advmod nmod:poss amod conj
+مەسىلە obl root nmod nmod:poss nsubj conj compound obj cop amod det advmod
+قىسقا amod root advmod conj nmod compound acl ccomp
+ھاۋا nmod nsubj amod conj root compound
+دەلىل obj compound compound:redup root nsubj nmod cop punct conj acl
+سېتىۋېلىش nmod amod obj nsubj root conj compound csubj
+بەزىلەر nsubj nmod amod conj root discourse punct acl obj obl compound det compound:redup vocative appos parataxis mark
+شىركەتنىڭ nmod:poss obl nmod obj conj
+27 nummod root appos compound:redup nsubj
+ساغلام amod compound root conj advmod ccomp obj
+يۈسۈپ flat appos nsubj punct acl root amod nmod obl
+پاك amod compound root conj ccomp nsubj parataxis compound:redup nmod
+رۇخسەت compound obj root nmod
+جان nmod nsubj obl obj root conj amod acl compound:redup compound punct compound:lvc ccomp
+كۆك amod conj root compound nmod nsubj punct obj appos
+ئالما nmod nsubj obj compound conj amod root appos
+شەھرى root nsubj compound amod punct appos conj
+قىزنىڭ nmod:poss conj obl root advmod
+خەن nmod nsubj obl compound acl conj amod root compound:redup
+نىيەت compound nsubj obj root obl punct nmod acl
+ھىچ nmod:poss det nsubj cop obl nmod amod conj punct advmod acl ccomp
+ئىجارە obj root nmod
+مەنبەلەر root nsubj amod nmod conj obl nmod:poss
+تەۋسىيە compound obj nmod root
+ئىشلەپ compound:lvc advcl root obl acl nmod compound obj conj aux
+” punct amod nmod root obj flat ccomp acl parataxis obl appos nsubj advcl conj
+ئالتاي compound nmod nsubj conj root amod ccomp advcl
+كېسەل nsubj nmod:poss root conj flat obl obj nmod amod parataxis punct compound
+دىكى nmod nsubj conj amod compound dislocated appos obj ccomp punct
+دا amod punct nmod compound dislocated nsubj root nummod appos conj obl obj compound:lvc
+دەرس obl nmod obj root compound conj amod nsubj aux
+قىلاتتى root acl aux ccomp advcl cop conj
+يۈەن nmod compound acl root obl nummod nsubj amod conj punct
+تۇرۇش nmod acl obj root conj obl csubj nsubj punct aux compound:lvc compound parataxis ccomp
+ئاپتونومىيىلىك nmod compound amod conj
+خەلقئارالىق amod nmod nsubj conj nummod
+ئېشىپ root advcl compound:lvc acl advmod nmod conj csubj obl amod ccomp
+ئورگان root acl nmod nsubj conj compound amod appos obl
+دۇنيانىڭ obl nmod:poss nmod amod conj advmod root acl
+مېتىر amod root conj nmod det nsubj obl parataxis compound
+خۇش amod compound acl nsubj
+تىللار nsubj nmod appos root obl compound punct conj amod
+(4 nmod:poss root nsubj obj appos nmod compound:redup discourse conj obl ccomp flat punct
+سۇلتان nsubj acl nmod appos flat conj nummod obl amod root ccomp nmod:poss
+40 nummod root compound conj punct compound:redup
+26 nummod root compound compound:redup appos nsubj nmod
+ئايرىلىپ compound:lvc advcl root advmod nmod conj acl compound obl
+نۆۋەتلىك amod nmod nummod conj compound nsubj appos
+مۇكەممەل amod compound advmod conj root nmod ccomp parataxis
+ئەرلەر nsubj nmod obl obj conj root amod compound compound:redup
+ھەدىسنى obj nsubj root appos punct compound nmod acl det cop flat nmod:poss
+توققۇز nummod amod compound nmod appos root conj nsubj dislocated cc
+كېلىپ، acl amod nmod nmod:poss obl nsubj advcl obj aux root conj advmod punct ccomp flat nummod
+ئادەمنى obj nmod root conj obl
+بىۋاستە advmod nmod acl conj amod compound det obl cop obj case root compound:lvc nummod advcl
+زاكات obj root nmod punct nsubj conj compound
+ئىتائەت compound obj root punct cop
+ئەسلىگە compound:lvc compound advmod obl case nmod advcl conj root acl
+يا cc punct mark amod advmod root advcl conj aux cop nmod case
+قۇياش nsubj nmod conj root
+قىممىتى nsubj nmod root acl conj obl amod compound:redup flat punct
+جەھەتتىكى amod conj nmod case obl nmod:poss advmod
+تۇرپان compound nmod appos ccomp nsubj conj root punct nummod
+مەيدانغا obl nmod root advmod conj
+ئىبراھىم nsubj appos flat root conj punct acl obl nmod nummod
+ئىشلىگەن acl root aux nmod amod conj obl cop case compound compound:lvc ccomp advmod flat
+ئورۇندا obl amod nmod conj root advmod compound
+بىرلىككە obl compound:lvc root advcl acl cop case advmod nmod compound
+ِ nmod amod flat punct root nsubj obj nmod:poss obl
+ئۇيغۇرنىڭ nmod:poss nmod obl conj amod det root nsubj
+رامىزاندا nsubj root obj
+كىلومەتىر compound conj appos punct
+تۇرۇپ، amod obj nmod:poss obl nmod nsubj root aux acl conj advmod compound punct nummod compound:lvc
+شۇنى obj compound det nmod advmod root conj nmod:cau cop
+ھوقۇقىغا nmod compound conj nsubj obj root compound:redup
+ئەنقەرە amod conj nmod compound root nsubj appos
+16 nummod root nsubj compound:redup obl parataxis punct amod det appos
+فىزىكىلىق amod root nmod:poss conj nsubj obj
+قانۇندا obl nmod:poss obj nmod acl conj advcl
+يات amod nmod:poss det nmod root nsubj obl compound conj punct acl
+مەدەنىيىتى conj amod nmod nsubj root obl nmod:poss ccomp det acl compound
+تارىم compound nmod appos amod dislocated nsubj root conj flat
+ئېغىرلىقى root punct amod nsubj nummod nmod
+قارىشى acl root obl nsubj nmod compound:lvc conj cop appos aux advcl advmod
+كۆرۈش acl root nmod amod nsubj conj csubj obj obl compound
+چەكلەنگەن acl nsubj root amod compound conj ccomp cop punct nmod
+رەھىمەھۇللاھ nsubj punct flat root appos
+كۆرسىتىپ root advcl compound:lvc acl conj aux ccomp amod
+ئەلى nsubj appos flat root conj
+قانۇنى nmod:poss root obl compound:redup punct conj nmod cop acl nsubj compound appos ccomp advcl parataxis case obj
+ئوڭ amod conj compound root compound:redup
+قازاسىنى compound root nmod cop obl advmod nsubj
+قىيامەت nsubj obj nmod root discourse punct appos flat
+قىتىم root nmod obl obj amod nsubj acl ccomp
+يالغان acl obj nmod root compound compound:lvc advcl conj ccomp compound:redup
+بالىلارنىڭ nmod:poss conj nmod advmod cop obl
+ماس compound amod advmod nmod obl conj obj root det
+ياراتقان acl root amod cop obj compound:redup conj parataxis nmod ccomp advcl aux compound
+قىلسۇن root obj ccomp punct nsubj parataxis
+ئىلگىرىكى nmod obl amod case root nmod:poss acl nsubj conj compound:redup nummod
+ياد obj root compound punct nmod conj
+بىرسى nsubj amod obl root det conj cop compound nmod:poss parataxis nmod advmod aux compound:redup
+ئىسسىقلىق nmod:poss obl obj conj amod
+بارماق punct amod nmod conj compound obl
+سالىھ nsubj flat root obj nmod punct appos
+كېسىلى nsubj root nmod conj obl obj amod
+تىلىنى obl amod nmod conj compound nmod:poss nsubj det root case advmod
+نەزەر amod root advmod compound nmod obl obj det conj compound:redup punct cop parataxis
+نۇپۇس root amod nmod:poss conj cop
+رەئىس nmod:poss obl root conj amod nmod nsubj nummod compound advmod
+قىلغاندىن nmod advcl case acl obl advmod root compound:lvc
+uyghur flat punct nsubj appos root
+رەھمەت compound obj root nmod conj cop nsubj ccomp parataxis aux case compound:redup advmod
+قوغداش nmod nsubj conj acl root obl compound
+شۇنچە advmod compound:redup root aux
+شۇنىڭغا nmod compound conj det obl advmod amod obj acl cop
+كىلومېتىر، nmod amod nmod:poss nummod conj obl punct nsubj
+سىلەرگە obj nmod obl compound root ccomp punct conj nsubj discourse
+پەنلەر nmod compound nsubj conj root
+خەنزۇ amod nmod conj det obl nsubj
+ئۆزگەرتىش acl nmod conj obj obl nsubj root ccomp
+كود nmod:poss nmod obj nsubj root conj
+مىلادى acl nummod nmod amod nsubj appos obl conj flat root compound:redup
+تىلىنىڭ nmod:poss amod nmod conj nsubj
+ئالى obl nmod nmod:poss conj root obj amod flat nsubj
+پەلسەپە nmod conj nsubj amod appos obl case compound:redup root nmod:poss dislocated
+مىقدارى nmod nsubj conj amod root obl compound nummod
+ئاسان advmod amod root compound conj acl cop ccomp
+ئوخشىمىغان acl amod conj nmod root
+جاي nmod obl compound cop conj ccomp case root compound:redup amod punct nsubj advmod
+بىرىگە conj amod nsubj obl nmod root det compound advmod obj nummod appos
+ئىستىمال compound obj nmod root punct conj nsubj amod
+گۈل amod nsubj obj nmod compound root conj punct compound:redup appos nummod
+دائىمىي nmod compound nummod nsubj conj amod root
+جىنايى obj nmod nmod:poss conj root
+شائىر amod nsubj punct flat appos root conj compound:redup nmod ccomp compound
+سىرتىدا root obl conj case nmod nmod:poss aux parataxis compound advmod
+بولۇشقا root obl acl nmod advcl conj compound:lvc compound nmod:poss ccomp advmod
+بۇلار nsubj det amod nmod obl root conj
+يەردىكى nmod:poss amod nmod det ccomp compound:redup nsubj conj obl root
+may appos root nummod compound nsubj punct
+چىقىرىش acl nmod root advcl obl conj obj csubj compound:lvc nsubj compound
+قوشۇپ root advcl compound:lvc acl advmod compound conj nmod cop aux
+قىلىنىپ acl advcl root compound:lvc nmod obl advmod case conj ccomp
+قىلىشىغا obl compound root nmod advcl conj case obj advmod ccomp acl compound:lvc
+22 nummod root compound nsubj compound:redup conj appos
+ۋەز-نەسىھەتلەر nsubj root conj compound dislocated appos
+ئارزۇ compound amod advmod compound:redup ccomp obj nmod root cop discourse det parataxis
+قاتناشقان acl root nmod conj aux obl parataxis advcl
+ياشلىق amod punct nsubj conj nmod appos
+خاھرى conj nsubj root
+ئىشلىرىنى obj nmod conj root obl compound amod nsubj
+يۈەندىن nummod compound nmod root obl
+نۇسخىسى root nmod nsubj amod conj compound appos punct obl
+دەريا amod nmod conj nsubj root compound compound:redup obl ccomp fixed appos punct aux
+ئۇمۇمىي root amod nmod compound conj nmod:poss nummod
+بېسىپ advcl compound:lvc root acl advmod nmod
+يهنى punct nmod obj root obl compound amod compound:redup case advcl dislocated nummod
+دوللار obl nsubj root conj nmod:poss nmod obj appos parataxis
+ئاساسىدا obl nmod case conj advmod amod acl compound root cop compound:redup advcl
+قۇرۇپ compound:lvc root acl advcl advmod obl conj amod
+ھېلىقى det mark
+پايتاھتى nsubj nmod:poss
+قوڭ cop conj nsubj root
+مەملىكەت nmod obl nsubj root compound
+گىرىپتار nmod:poss compound advmod root nmod
+بېرىدىغان acl nmod root advcl obl obj compound
+ئوقۇغۇچىلار nmod obl nsubj conj root acl ccomp obj
+ھەيران compound advmod amod nmod obl root aux acl nsubj obj conj
+رايۇنى root nmod conj compound
+كۆرۈنىشى root nmod nsubj conj acl
+بېيجىڭ nmod compound nsubj conj root obl amod nummod flat
+ياشلار nmod nsubj compound conj root amod appos compound:redup obl
+بارلىقىنى obl compound advmod nmod:poss nmod root cop case obj compound:redup advcl amod ccomp
+ئەلۋەتتە advmod cop nsubj compound root nmod amod cc conj det aux obl acl nmod:poss
+ئورۇنغا obl nmod compound root conj advmod obj acl
+ھەرگىزمۇ advmod nmod det obl cop case amod compound acl nmod:poss aux compound:redup conj cc advcl
+дәп nsubj appos flat nmod root punct
+روھى nsubj nmod conj amod root obl ccomp compound obj punct appos
+بېكەت punct nmod nsubj root obj compound conj obl
+ئۇرۇشى nmod root amod obl acl nsubj conj punct compound ccomp compound:lvc parataxis advmod nummod flat
+باشلانغۇچ amod nmod obl conj root
+تەرتىپى root nmod obl conj compound nsubj amod
+ئاجىز amod compound root advmod nmod conj punct acl compound:redup obl ccomp parataxis aux cop
+ئايلىنىپ root compound:lvc advcl advmod acl nmod aux conj
+21 nummod root compound nsubj nmod appos compound:redup
+نېفىت nmod nsubj compound conj
+قويىدۇ aux root cop advcl nmod
+قوللىندىغان nummod
+جىنايەت obj nmod:poss nmod root conj punct compound appos ccomp
+ئېيتىپ advcl compound:lvc root acl advmod nmod ccomp compound aux
+مەزگىل advmod obl nmod amod conj root nmod:poss
+قىلىشتا nmod acl compound case obj root amod conj obl advcl cop punct ccomp nsubj
+يۇرت nmod nsubj compound:redup compound amod root obl appos conj acl flat ccomp
+تەكشۈرۈپ acl nmod compound compound:lvc conj advmod advcl root obl obj
+ئادەتتىكى amod nmod conj root nsubj nummod obl
+قۇرئاننى obj nsubj nmod compound root discourse nmod:poss punct cop compound:redup appos parataxis
+بېرىشكە root obj advcl compound obl acl compound:lvc nmod conj punct
+ياشقا obl compound:lvc root advmod advcl nmod conj acl
+ئالاقە nmod nsubj compound conj root obl obj
+گېرمانىيە nmod amod root conj nsubj appos obl compound
+تال amod root conj obj compound nsubj
+ئىتتىپاقى nmod nsubj obl amod conj root punct acl compound
+ھۆرمەت compound nmod obl obj root conj amod punct compound:redup nsubj case
+ئامېرىكىدىكى amod nmod obl nsubj conj root
+پايدىلىنىپ acl advcl compound:lvc root nmod advmod obl conj
+مۇتلەق nmod:poss nmod amod obl conj root nsubj compound advmod
+يولدا obl nmod:poss nmod root conj obj compound
+باشقىلارنى obj root nmod conj aux punct compound amod advcl
+تەرىپى compound nmod conj nsubj root amod case obl
+قېلىش acl obl root nsubj nmod aux conj nmod:poss csubj advcl obj parataxis
+ئا amod root compound punct conj nmod compound:redup dislocated appos parataxis nummod ccomp
+تەرەپكە obl nmod compound root conj
+بىرلا det acl nummod compound nmod root advmod obl amod advcl conj aux compound:redup cop
+ئەمەلىيەتتە advmod amod nmod compound root nmod:poss conj obl ccomp det case acl
+ئېتىراپ compound acl compound:lvc root obj advcl obl case cop nmod
+ئېرىشتى root conj nmod acl cop ccomp advcl parataxis
+سۈرىسى flat nsubj root punct appos obl parataxis obj conj
+ئۇرۇق nmod conj compound:redup compound obj amod nsubj root
+ئەدەبىياتى nmod compound nsubj appos root conj flat amod ccomp obl acl punct
+ئىقتىدارى nsubj conj nmod root obl amod compound nmod:poss ccomp
+قاغان acl flat nmod conj root compound:lvc nsubj obl ccomp compound punct appos aux advcl
+كىمكى obj punct root nmod:poss nmod conj nsubj
+ۋەزىر nsubj appos flat nmod conj compound root punct
+ئەتراپتىكى conj nmod amod nsubj obl
+مۇستاككىل nummod conj
+نورمال amod compound nmod advmod conj nsubj obj det obl acl advcl
+ئافرىقا nsubj conj nmod amod root compound
+قىلىنىدىغان acl nmod root amod advcl nummod obl cop conj compound
+بولگان، nummod root amod appos conj punct flat acl
+bolghan flat root nsubj punct nmod:poss appos
+سابىق amod nmod conj compound nummod obl
+دورا obj nmod root conj compound:redup nsubj obl compound
+ئىشلارغا obj nmod conj root compound amod obl
+ئۇسۇل nmod obj obl root conj nsubj compound amod
+bolsa flat punct appos nmod:poss root
+ئەدەپ-قائىدىلەر nsubj compound appos root punct
+قازا compound obl nmod advmod nummod amod appos conj root punct aux
+بەرپا compound amod root punct obj nmod conj
+خىلاپ nmod acl compound obj root obl advcl ccomp compound:lvc aux
+ئۆگىنىش nmod obl conj nsubj root acl amod compound csubj
+ئوقۇغۇچى obl nmod obj conj compound root nsubj amod acl aux ccomp
+رىۋايىتى nsubj root appos flat punct parataxis
+نەسىھەت obj compound root conj punct flat
+روزىنىڭ nsubj nmod root nmod:poss obl conj obj advmod cop compound aux case
+تەنھەرىكەت nmod amod nsubj conj root
+شەرق nmod nsubj conj amod punct obl compound root nummod
+ئېتنىك nmod:poss amod nsubj conj
+يېقىنقى amod nmod
+ساياھەت nmod compound nsubj root conj obj amod appos
+قوي nmod obj amod root nsubj compound conj nummod compound:redup aux discourse
+5- nummod nmod root obl compound appos punct conj
+болған nsubj appos root flat nmod
+لېكىن، nmod:poss nsubj amod nmod obl advmod conj obj appos root
+كۈچكە nmod compound advmod root conj case obl nmod:poss amod acl
+كەلتۈرۈپ advcl root compound:lvc acl advmod nmod
+تۇتۇشقا obj root compound nsubj nmod:poss nmod conj obl acl aux advmod
+i root flat nsubj punct appos nmod:poss conj
+200 nummod root nmod
+توختام nmod nsubj obj conj compound obl case root
+ئائىشە punct obj root nsubj discourse appos flat conj ccomp
+خاقان nsubj obl acl root flat conj nmod amod appos parataxis ccomp obj aux discourse advcl
+بېرىلىدۇ، obl nmod conj obj nsubj amod nmod:poss nummod aux punct advmod root
+مۇسلىم punct nsubj appos nmod root dislocated
+قىلىشىنى compound obj root compound:lvc advcl nmod advmod
+شىمال nmod compound amod conj root nsubj punct
+جۈمە nsubj root nmod appos nummod conj punct compound det
+قۇرغان acl root nmod obl conj nmod:poss amod cop
+قۇمۇل compound nmod nsubj conj root appos
+كەچۈرۈم obj compound root nmod conj ccomp
+سۈرئىتى root advmod nmod amod acl obl conj
+تاكى advmod nmod amod case conj obl root mark compound acl compound:redup
+ئەھلى nsubj amod conj root nmod ccomp appos compound obl
+تەھرىرلەش nmod obj acl
+خەلقىنىڭ nmod:poss nmod obl amod conj nsubj case
+ئەنە det advmod case nmod cop nmod:poss cc conj compound
+چىقىپ، acl amod obl nmod:poss nmod advcl obj advmod nsubj conj punct root
+in flat punct nsubj appos root
+بولۇشنى obj compound nmod obl amod conj acl advmod nsubj root cop aux compound:lvc
+گە nmod obl nsubj dislocated nummod amod punct conj appos compound
+ئوقۇتۇش nmod amod conj acl root compound:redup nsubj obj obl
+جايلارنىڭ nmod nmod:poss obj compound conj nsubj
+پائالىيەت obl nmod nsubj obj conj root compound
+ئويلاپ root compound:lvc advcl advmod acl aux nmod
+تەھلىل nmod compound obj conj root punct amod
+ئارقا amod nmod conj compound:redup compound
+في nsubj flat appos punct
+يېڭىدىن obl nmod advmod amod root conj case acl compound:lvc nummod
+سەۋەبلىك advmod nmod:poss obl nmod case root conj acl punct amod
+دەم obj advmod obl nmod amod conj compound root punct compound:lvc
+شىركىتىنىڭ nmod nsubj obj obl compound:redup root
+بىرلەشمىسى amod nmod nsubj conj root obl compound advmod nummod det
+17 nummod root nsubj compound:redup appos nmod
+سېتىش nmod obj root acl conj obl nsubj
+خانلىق obl nmod amod advmod nummod conj root acl
+ئەمگەككە obj compound nmod nummod
+ھەممىسىنى obj root conj
+چىقىرىپ advcl root acl compound:lvc obl nmod conj compound
+كىردى root aux advcl cop acl conj advmod
+ئەقىيدە nummod root nsubj appos flat conj
+نۇرغۇنلىغان amod acl nmod obl nsubj conj advmod
+قاتارلىقلارنى case amod compound obj nmod cc conj advcl compound:redup acl dislocated advmod
+ئاياللارغا obj nmod compound root conj amod obl nmod:poss nsubj
+ئەرەبچە root nsubj nmod acl amod conj appos compound det compound:redup obl discourse cop ccomp flat
+ھۆددە obj nmod conj nsubj root
+پەتىۋا obj nmod root nsubj compound obl punct conj
+ئەلچىسى ccomp nsubj root punct obl nmod conj compound parataxis obj appos discourse flat
+جۇڭگونىڭ amod nmod compound conj nummod
+توغرىدا obl nmod root det obj nsubj acl compound cop appos
+تۈركچە amod nmod root appos nsubj compound conj compound:redup acl ccomp dislocated punct parataxis obj discourse
+تەرەققى compound amod conj nmod
+يوشۇرۇن advmod amod nmod:poss nmod conj root obj obl compound compound:redup
+ئورنىنى obl case conj nmod nmod:poss root compound advmod
+قايتىدىن advmod obl acl nmod root advcl case compound compound:lvc conj aux
+سۆزلەپ root compound:lvc advcl acl compound obj discourse advmod aux nmod ccomp
+گېزىتى root conj nsubj appos nmod compound dislocated amod nummod punct
+ھەدىسلەر nsubj compound nmod root obj punct obl acl appos ccomp cop conj
+پەرق nsubj amod nmod:poss root compound conj nmod obl compound:redup det
+ئەگىشىپ advmod advcl compound:lvc root acl nmod conj case aux
+زىنا obj compound nsubj root punct nmod
+رادىئۇسى root
+بېشى nmod acl obl compound amod advcl nsubj root compound:lvc conj punct nummod advmod ccomp compound:redup
+ئايلىق amod nmod obl conj root advmod
+دۇچ obl root acl compound:lvc advcl nmod aux advmod
+dep flat nsubj punct appos root
+باراۋەر root compound amod nmod conj nsubj obj ccomp obl punct advmod
+تولىمۇ advmod conj
+ئاللاھنى obj root conj nsubj nmod compound
+ئاساسلىقى amod nmod conj compound root nsubj
+ئۆتكۈزۈشچانلىقى root punct
+ئىچى nmod nsubj amod conj obl root compound compound:redup
+فىزىكا nmod obl amod conj nsubj appos root obj
+كەم amod nsubj compound nmod compound:redup conj root advmod acl obl nmod:poss obj ccomp
+u nsubj root flat punct appos conj vocative
+كىرىش acl nmod root obl conj nsubj parataxis aux ccomp advcl amod
+تاشلاپ compound:lvc advcl root acl nmod conj
+10- nummod nmod obl nsubj appos punct conj root
+ئىنكاس compound nmod punct obj root nsubj obl conj amod
+كۆپلىگەن acl amod nmod root conj
+قانۇننىڭ nmod:poss obj nmod nsubj
+ئەسلىدە obl advmod nmod nmod:poss case conj root acl
+جايدا obl nmod nmod:poss conj root amod appos ccomp case nummod
+تاللاش nmod root acl obj conj nsubj obl amod punct compound csubj
+ئازراق، amod obj conj root obl nsubj nmod nmod:poss
+ماتېرىيال nmod obj compound nsubj root amod punct conj
+تەشۋىقات nmod compound root obl obj nsubj compound:redup
+ئۇنىۋېرستېتى amod nmod nsubj root conj compound
+بىرلەشمە nmod nsubj amod compound conj root nummod appos obl
+ئايدىن nmod nummod obl amod root nsubj compound conj
+كىرەك root aux cop obj compound parataxis ccomp nmod punct advcl conj compound:redup acl obl
+سىلەرنىڭ obj nsubj nmod root nmod:poss compound conj punct
+قىزى nsubj root obl appos flat nmod conj punct parataxis
+تىللىرى nmod nsubj root conj amod ccomp
+قايناش nmod nsubj
+قانۇنغا obj compound nmod conj obl
+كەرىمدە obl root nmod cop nsubj nmod:poss det
+رۇسىيە nmod compound nsubj conj root amod obl
+ساياھەتچىلىك root amod nmod
+كىيىنكى amod nmod obl conj advmod case nsubj aux root cop acl
+بولمىسا، amod obj nmod:poss nmod nsubj obl conj acl punct root advmod advcl nummod
+ئورگانلىرى nmod compound obj conj nsubj root obl amod
+مۇھاكىمە nmod compound obj conj obl nsubj
+تۈركىستان nmod acl root conj obl amod nsubj nummod compound nmod:poss appos
+ۋەزىپە obl nmod compound nsubj conj root
+شەكلىدە amod obl conj nmod root case compound advmod punct
+ئۆزلىرى compound amod nmod obj obl conj nsubj root case acl advmod compound:redup
+مەككە nsubj root nmod appos obl conj punct
+ئېچىپ advcl root compound:lvc acl nmod obj ccomp
+مەكتەپكە obl nmod root
+خەلقى nsubj nmod obl conj amod ccomp
+رايۇننومۇرى compound conj nummod
+ئىچىدىن obl nmod amod conj root acl case appos
+ئورگىنى nmod obl nmod:poss obj nsubj compound root conj
+уйғур nsubj appos flat root nmod punct
+زىكىر compound obj punct nmod root cop conj amod
+ئىكەنلىكى obl cop nmod advmod amod compound parataxis case root nmod:poss acl nsubj conj fixed compound:redup
+نەپەر nmod compound root amod nummod punct compound:redup conj
+ئېچىش acl nmod root obl conj nsubj obj
+قىممەت amod nmod obj conj nsubj root compound acl punct ccomp
+نېمە؟ punct ccomp cop root nmod nsubj acl compound compound:redup obl obj
+رەڭلىك amod root conj compound obj
+جەڭ compound amod nmod nsubj punct root conj ccomp nummod
+رەئىسى nsubj nmod root conj obl appos amod compound
+سۆزلەيدىغان root acl parataxis amod nsubj
+نېمىشقا advmod root nmod
+ئاڭلاپ advcl root compound:lvc advmod acl obj nmod
+گۆش obj nmod root punct conj nsubj compound compound:redup nummod
+ئىشلارنىڭ nmod:poss obj nmod obl root compound conj nsubj advmod
+كاتېگورىيىسى punct root
+△ nsubj amod nmod:poss nmod root appos obj discourse
+ئەھمىيەت compound advmod amod conj root obl
+بولسۇن، conj root nmod obj nmod:poss acl punct obl nsubj advmod amod aux advcl ccomp cop
+كۆلىمى nmod nsubj compound amod nummod conj det obl
+قىلغانلىقى compound acl root nsubj obl obj nmod flat conj punct parataxis
+مىللەتنىڭ nmod:poss amod obl conj nmod root obj advmod
+ئامېرىكىنىڭ amod nmod obl conj nmod:poss advmod compound nsubj
+ئېيى nsubj obl root nmod appos compound ccomp
+تەتقىقاتى nmod conj root obl nsubj appos compound compound:redup ccomp case amod
+ئىلمېنىت root punct
+بەرسە root compound obj advcl acl nmod aux ccomp punct conj
+ھېيت nmod compound nsubj punct advmod root ccomp conj nummod compound:redup amod acl appos
+دەۋرىدىكى amod nsubj nmod root conj acl
+نەشرى compound nummod appos root nsubj nmod conj dislocated compound:redup amod punct
+مىلادىيە nummod nmod amod appos nsubj flat compound:redup obl
+ئېلىشى csubj root nmod obl conj obj advcl acl aux punct
+ئاساسەن، amod nmod nmod:poss obj conj nsubj obl punct root acl flat advmod ccomp
+يىللار nmod appos amod nsubj obl root nummod conj compound flat
+۞ punct obj nsubj root nmod:poss flat nmod discourse conj appos vocative dislocated compound
+ئاشۇنداق advmod amod compound nmod det acl conj root
+گۆشى obj root nmod conj punct amod advcl nsubj
+› punct
+ئىزچىل advmod amod nmod obl conj root
+سېنى obj punct compound root nsubj flat
+مىللىئون nummod root compound
+ئۆلۈم nmod amod obj obl root conj compound:redup nummod compound nmod:poss
+ھەرگىز advmod root compound cop nmod punct amod advcl obj det
+قەتئىي advmod amod compound obl case nmod conj root acl
+سېرىق amod conj root
+مەنبەسى amod root conj nsubj ccomp nmod obl compound nmod:poss
+تەشەببۇس compound nmod advmod case conj obj obl root
+ئومۇمى nsubj nmod obl conj nmod:poss root nummod det punct amod
+كىيىم nmod amod compound compound:redup obj nsubj conj root ccomp
+ئاددىي amod conj root compound parataxis compound:redup
+مەزگىلىدە advmod obl nmod amod conj compound:redup nummod case aux root acl
+يېزىسى root compound nmod nsubj obl amod conj appos
+توم punct root nsubj flat nmod obj appos nummod ccomp advcl
+جىددى nmod obj acl root advcl compound compound:lvc advmod punct
+تۇرۇشلۇق nmod amod conj nsubj compound acl root obl nummod
+ئامېرىكىغا obl advmod nmod conj nmod:poss
+شەرقى nmod compound amod conj nsubj
+نۇمۇرى root obj nmod nsubj obl
+جۇمھۇر root nmod:poss nmod appos nsubj nummod
+رەسىم nmod amod obj root nsubj conj
+ئۆلۈپ compound:lvc root advcl advmod acl aux nmod
+؟- mark punct compound cop advmod aux advcl discourse obj det parataxis nsubj root nmod:cau flat
+پۇتبول nmod amod nsubj obl root
+قۇيۇپ advcl compound:lvc root nmod conj obj nummod compound
+بايرام nmod root nsubj amod obl compound ccomp acl conj
+قىلىڭ root nmod obj advmod acl nsubj case parataxis aux obl ccomp
+ئۇچۇن obl case conj advmod root nmod amod advcl parataxis ccomp
+كەلتۈرۈش acl advcl nmod root obl obj nsubj compound:lvc ccomp conj
+دەخلى compound compound:redup obj nmod acl ccomp conj
+گۇرۇپپىسى root nmod nsubj conj obl appos amod compound
+كۆتۈرۈپ advcl compound:lvc root acl nmod
+ئېسىل amod root nsubj parataxis ccomp conj
+سۆزلىشىدىغان root acl amod det
+تىپتىكى nmod amod nsubj compound conj
+ئېلىپ، amod acl obl nmod nmod:poss conj obj advcl advmod nsubj compound:redup root
+قىيىن amod compound advmod root acl conj aux advcl mark nmod parataxis ccomp compound:lvc
+بولدى، nmod root acl obj amod obl nmod:poss nsubj advmod conj ccomp aux punct advcl
+ئىشلەش nmod obj root nsubj acl obl conj
+خاتىرە nmod compound nsubj root appos nummod ccomp obj
+بېرىش، acl obj nmod:poss amod nmod obl punct aux advmod root nsubj conj advcl
+قەدىمىي amod nmod conj compound nsubj
+قۇرۇلغاندىن nmod compound obl compound:redup amod
+ئولتۇرۇپ advcl root acl advmod compound:lvc aux nmod
+ئوتتۇرىسىدىكى amod conj nmod nsubj obl compound:redup root
+شىنجاڭنىڭ nmod amod conj nsubj det
+ئىنگلىزچە det root appos ccomp nsubj amod nmod mark acl conj compound:redup cop compound punct parataxis
+كۈرەش compound nmod nsubj obj appos conj obl acl root ccomp
+مىللەتلەرنىڭ nmod amod nmod:poss conj nsubj obl compound:redup compound
+ت nmod root punct amod advmod obj conj compound aux ccomp nummod compound:redup obl parataxis
+جەنۇبى nmod compound amod nsubj conj root
+شەئبان nsubj nmod acl advmod advcl obl punct root appos cop
+11- nummod nmod nsubj appos flat compound conj obl dislocated
+سەككىز nummod amod conj nmod acl root compound nsubj
+جىنسىي nsubj amod conj nmod obj punct
+ئەمما، nmod:poss nsubj amod nmod obl obj appos conj root
+خىزمىتى nmod obl nsubj root obj conj compound amod acl
+يۈكسەك amod conj root compound acl nsubj nmod:poss
+بولىدۇ؟ punct root acl ccomp cop nmod advcl aux nsubj obj advmod conj obl
+يۇرەك nsubj nmod obl nmod:poss conj obj
+خەلقارالىق nmod:poss amod obj nsubj
+ئىنگلىز nsubj nmod amod det cop conj acl
+ئېيىنىڭ nsubj nmod obl root advmod nummod appos
+باشقا، amod nmod:poss nmod obl nsubj obj conj advmod acl root
+پوقتانومۇرى compound conj
+كومىتېتىنىڭ nmod nummod conj compound amod root obl nsubj
+بازارغا obj nmod compound obl amod root conj
+يەردىن obl nmod root advcl
+دوست compound conj obj nsubj nmod root amod ccomp compound:redup appos
+نىسبىتى obl nmod amod nsubj root conj acl nmod:poss det nummod advmod aux
+for flat nsubj nmod:poss appos punct root conj
+رىم nmod amod nsubj conj compound:redup root acl obl
+ئىشچى obj nmod compound:redup compound conj nummod root
+قۇم amod nmod compound compound:redup conj flat advmod obl punct nsubj
+يۈرەك amod root nmod obj compound:redup nsubj conj obl appos compound
+ئەخلاق nsubj conj nmod amod obl compound:redup obj root ccomp punct nmod:poss
+تېخنىكىسى nmod nsubj obl root conj obj compound
+ئىشلىرىغا nmod compound obl conj amod obj root case
+ئادەملەر nsubj obl conj root nmod amod det
+سەۋەپ root compound advmod obl acl conj compound:lvc nmod:poss advcl aux fixed nsubj nmod punct
+ھەققى nsubj obj root conj punct nmod obl nmod:poss
+چاغاتاي nmod amod nsubj conj obl nmod:poss acl case det appos root nummod
+پادىشاھ nsubj nmod root appos amod compound obl conj compound:redup nummod
+كارخانا nmod nsubj obj compound conj obl root
+ئورنىدا obl nmod root advmod amod conj case compound ccomp cop
+تەبئىي punct nmod compound nsubj amod
+بولدۇم aux root cop obl parataxis advcl nsubj ccomp acl compound:redup
+قوللىندۇ root conj
+مەزگىلدە obl nmod:poss nmod advmod root conj amod
+ئەسىرنىڭ nmod amod conj nummod compound:redup appos nsubj compound
+مەنسۇپ root acl compound obl ccomp parataxis flat nmod nsubj conj
+ئوبدان advmod acl amod root obj compound advcl ccomp compound:lvc nmod conj punct aux
+مۇقىم amod obl nmod nsubj conj root compound
+كونترول compound obj amod nmod conj punct root det
+قۇرۇلتىيى nmod compound nummod nsubj root conj appos compound:redup
+مۇددىتى nmod nsubj obl nummod obj root conj compound
+مىنىستىر punct nmod nsubj root compound
+پايدا obj nmod root compound nsubj conj compound:redup
+ئىلغار amod conj nmod root compound obj
+ۋاجىپ compound root nmod advcl case compound:lvc nsubj parataxis obl cop
+60 nummod root compound conj
+شىمالى nmod compound nsubj conj root
+جىق det advmod amod root conj ccomp cop
+تەڭرىتاغ compound nmod amod appos root conj
+shehiri punct appos flat root nmod:poss
+ھامىلدار nsubj amod conj obj root nmod nmod:poss cop
+قىسمىنى advmod obl amod nmod conj root cop case
+شەھەرلىك amod compound nmod conj
+70 nummod compound root nmod punct aux compound:redup
+دۆلەتلەتدە conj nsubj
+مۈلۈك nmod nsubj obj conj obl compound root
+9- nummod nmod appos obl flat conj nsubj root
+.ئۇ nmod:poss punct obj nmod aux advmod obl mark cop advcl det nsubj
+تارىخىدا amod nmod nmod:poss acl conj obl ccomp case compound:redup root appos
+ماي nmod amod obj compound conj nsubj root
+ئۆزىڭىز obj compound advmod nmod obl acl det nsubj advcl cop root conj
+ئوخشاشلا amod advmod root conj acl compound nmod nmod:poss mark discourse
+بازىرى nmod nsubj root compound conj amod obl
+بىلەنلا case advmod cop root
+قالسا، aux acl nmod nsubj root amod obj advcl obl punct advmod conj nmod:poss
+ماشىنىسى nsubj nmod root compound conj obj obl parataxis punct
+خالىغان obj acl root nmod det amod nsubj aux conj advcl
+كۈنلۈك amod nmod conj root advmod obl nsubj nummod det
+ئابدۇللا appos punct nsubj nmod flat amod root compound conj vocative
+ھەمكارلىق nmod nsubj compound conj amod
+قۇرئاننىڭ nsubj dislocated nmod obj root nmod:poss punct obl conj appos
+تۈرگە obj nsubj compound nmod amod conj root
+ھوقۇقلۇق aux root obj nmod conj obl compound advmod cop amod nmod:poss
+كۆرسەتكەن acl root cop amod parataxis nsubj nmod conj aux obl ccomp
+مۇناسىپ acl compound nmod root conj compound:lvc advcl amod obj
+ئەۋزەلمۇ nsubj root
+دىنىنى obl nsubj compound nmod nmod:poss root conj obj
+بارىدۇ aux root conj advcl nmod acl obl
+شىنجاڭدىكى amod nmod conj compound obl root nsubj
+مىنۇت advmod amod obl nmod conj nummod root det
+مەشغۇلات nmod nsubj amod obj compound conj obl
+ئارقىلىق، amod nmod obj nmod:poss conj obl nsubj root compound:redup punct
+قويۇپ، acl advmod amod advcl obj obl root nmod nsubj conj aux nmod:poss punct compound:lvc
+ساغلاملىق nmod amod obj conj root compound nsubj compound:redup
+تىز amod compound obj conj root punct nmod nsubj acl advmod
+قىزلار nsubj nmod obl root conj amod compound:redup
+بىرىنى obj nummod compound nmod conj det root amod aux obl compound:redup
+خەلقنىڭ amod nmod:poss conj nmod obl advmod obj case compound:redup
+قىلىشى، obj nmod:poss amod punct nmod obl root acl conj nsubj
+قۇرۇش nmod nsubj acl root obl conj punct
+نەتىجە obl nmod obj conj root punct amod compound
+زىيادە compound obj nsubj nmod:poss nmod conj root amod punct
+6- nummod nmod conj root nsubj flat punct obl appos compound
+مەسىلىسى nmod nsubj root conj amod compound obl compound:redup ccomp
+يىلدا obl nmod advmod nummod conj root amod
+سۇرە root nsubj appos nmod punct obl conj flat compound nmod:poss
+تىببىي punct nmod amod appos compound root dislocated conj
+ھاجى nsubj flat nmod punct obl appos root conj compound
+كۆچۈپ compound:lvc root acl advcl obl conj nmod
+ئاخبارات nmod compound compound:redup conj nsubj amod root
+ئايرىپ compound:lvc acl root advcl compound conj
+لاتىن amod nmod conj nsubj nmod:poss root
+خانلىقىنىڭ nmod obl nmod:poss appos amod conj flat
+غۇلجا compound nmod nsubj punct appos conj amod root
+ئۈندىدار nmod obj compound root nsubj appos obl acl
+رايۇنلار cop nmod root conj
+سول amod conj root nsubj nmod
+رويخەتكە obj nmod obl compound conj nsubj
+تۈپەيلىدىن obl nmod:poss nmod amod conj advmod acl compound:redup compound case nsubj root
+تەشكىلاتى nsubj root nmod conj compound appos punct
+ماتورلۇق nmod obj nsubj amod conj acl
+قەدەم advmod amod compound obl nmod root obj compound:redup conj compound:lvc
+قىلماقچى root compound:lvc compound acl obl advmod parataxis advcl aux nmod conj ccomp
+سوراپ root advcl compound:lvc acl compound nmod obj parataxis advmod
+سەدىقە obj compound nmod root punct conj
+у nsubj appos nmod flat root
+كىيىن، nmod:poss amod nsubj obl nmod conj root punct obj acl
+دەپمۇ root advmod conj acl case advcl amod flat nmod dislocated compound cop punct compound:lvc det nsubj nummod aux
+ئۇششاق amod advmod conj compound nmod root
+ئوغۇل amod nmod compound nsubj compound:redup root obj conj
+مەغلۇپ advmod compound root compound:lvc advcl obl ccomp nmod conj
+ئالىمى amod root appos obl nmod ccomp nsubj flat conj parataxis
+روھىي amod conj nmod advmod
+يەھۇدى nsubj nmod:poss acl conj cop root obl nmod compound advcl
+تېپىپ advcl compound:lvc root acl advmod nmod obl
+ئەقىل nmod amod nsubj compound:redup conj obj obl root nmod:poss compound
+8- nummod nmod conj obl nsubj root compound dislocated appos punct
+دېيىلىدۇ root cop conj acl aux advcl obl nmod
+مۇرەسسە nmod compound obj root conj compound:redup
+جەمئىيىتىنىڭ nmod compound amod conj nsubj
+ئېيىدا nmod obl advmod root nsubj cop compound
+مەيدان nmod amod obl nsubj root conj compound obj aux compound:redup
+ئىران amod nmod conj root nsubj acl obl
+تەلىم obl compound nmod compound:redup root conj compound:lvc acl nsubj
+بىلىش root nmod obl acl nsubj conj obj compound csubj parataxis ccomp
+مەسچىت nmod amod root obl conj compound compound:redup ccomp
+دېتال nmod obj nsubj conj root amod obl ccomp compound:redup compound
+تۇردى aux root acl obl nmod advcl compound:lvc conj amod flat nummod cop
+ئەسەرلەر nsubj nmod root conj compound obj obl amod compound:redup
+ياشاش acl obl nmod nsubj root conj aux ccomp
+مۇكاپاتىغا obl nmod compound root conj nsubj amod appos obj dislocated ccomp
+روزىسى nsubj root compound obl punct nmod conj obj
+مۇسا nsubj flat appos punct root obj obl nmod conj
+روزىنى obj root compound nmod obl nsubj conj aux punct
+404: Not Found
